@@ -1,0 +1,85 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EasySave.Desktop/1.0.0": {
+        "dependencies": {
+          "EasySave.Core": "1.0.0"
+        },
+        "runtime": {
+          "EasySave.Desktop.dll": {}
+        },
+        "resources": {
+          "en/EasySave.Desktop.resources.dll": {
+            "locale": "en"
+          },
+          "fr/EasySave.Desktop.resources.dll": {
+            "locale": "fr"
+          }
+        }
+      },
+      "CryptoSoft/1.0.0": {
+        "runtime": {
+          "CryptoSoft.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "EasySave.Core/1.0.0": {
+        "dependencies": {
+          "CryptoSoft": "1.0.0",
+          "Logger": "1.0.0"
+        },
+        "runtime": {
+          "EasySave.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        },
+        "resources": {
+          "en/EasySave.Core.resources.dll": {
+            "locale": "en"
+          },
+          "fr/EasySave.Core.resources.dll": {
+            "locale": "fr"
+          }
+        }
+      },
+      "Logger/1.0.0": {
+        "runtime": {
+          "Logger.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EasySave.Desktop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CryptoSoft/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EasySave.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Logger/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

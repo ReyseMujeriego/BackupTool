@@ -1,0 +1,118 @@
+C:\Users\BlobJR\source\repos\EasySave\EasySave.Core\bin\Debug\net8.0\EasySave.Core.deps.json
+C:\Users\BlobJR\source\repos\EasySave\EasySave.Core\bin\Debug\net8.0\EasySave.Core.dll
+C:\Users\BlobJR\source\repos\EasySave\EasySave.Core\bin\Debug\net8.0\EasySave.Core.pdb
+C:\Users\BlobJR\source\repos\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BlobJR\source\repos\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.AssemblyInfoInputs.cache
+C:\Users\BlobJR\source\repos\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.AssemblyInfo.cs
+C:\Users\BlobJR\source\repos\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.csproj.CoreCompileInputs.cache
+C:\Users\BlobJR\source\repos\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.dll
+C:\Users\BlobJR\source\repos\EasySave\EasySave.Core\obj\Debug\net8.0\refint\EasySave.Core.dll
+C:\Users\BlobJR\source\repos\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.pdb
+C:\Users\BlobJR\source\repos\EasySave\EasySave.Core\obj\Debug\net8.0\ref\EasySave.Core.dll
+D:\dl\testmalacrino\Projet_Genie_Logiciel\EasySave\EasySave.Core\bin\Debug\net8.0\EasySave.Core.deps.json
+D:\dl\testmalacrino\Projet_Genie_Logiciel\EasySave\EasySave.Core\bin\Debug\net8.0\EasySave.Core.dll
+D:\dl\testmalacrino\Projet_Genie_Logiciel\EasySave\EasySave.Core\bin\Debug\net8.0\EasySave.Core.pdb
+D:\dl\testmalacrino\Projet_Genie_Logiciel\EasySave\EasySave.Core\bin\Debug\net8.0\en\EasySave.Core.resources.dll
+D:\dl\testmalacrino\Projet_Genie_Logiciel\EasySave\EasySave.Core\bin\Debug\net8.0\fr\EasySave.Core.resources.dll
+D:\dl\testmalacrino\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.Properties.Resources.resources
+D:\dl\testmalacrino\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.Properties.Resources.en.resources
+D:\dl\testmalacrino\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.Properties.Resources.fr.resources
+D:\dl\testmalacrino\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.csproj.GenerateResource.cache
+D:\dl\testmalacrino\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\dl\testmalacrino\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.AssemblyInfoInputs.cache
+D:\dl\testmalacrino\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.AssemblyInfo.cs
+D:\dl\testmalacrino\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.csproj.CoreCompileInputs.cache
+D:\dl\testmalacrino\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.sourcelink.json
+D:\dl\testmalacrino\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\en\EasySave.Core.resources.dll
+D:\dl\testmalacrino\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\fr\EasySave.Core.resources.dll
+D:\dl\testmalacrino\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.dll
+D:\dl\testmalacrino\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\refint\EasySave.Core.dll
+D:\dl\testmalacrino\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.pdb
+D:\dl\testmalacrino\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\ref\EasySave.Core.dll
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Core\bin\Debug\net8.0\EasySave.Core.deps.json
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Core\bin\Debug\net8.0\EasySave.Core.dll
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Core\bin\Debug\net8.0\EasySave.Core.pdb
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Core\bin\Debug\net8.0\en\EasySave.Core.resources.dll
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Core\bin\Debug\net8.0\fr\EasySave.Core.resources.dll
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.Properties.Resources.resources
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.Properties.Resources.en.resources
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.Properties.Resources.fr.resources
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.csproj.GenerateResource.cache
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.AssemblyInfoInputs.cache
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.AssemblyInfo.cs
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.csproj.CoreCompileInputs.cache
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.sourcelink.json
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\en\EasySave.Core.resources.dll
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\fr\EasySave.Core.resources.dll
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.dll
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\refint\EasySave.Core.dll
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.pdb
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\ref\EasySave.Core.dll
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.Properties.Resources.resources
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.Properties.Resources.en.resources
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.Properties.Resources.fr.resources
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.csproj.GenerateResource.cache
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.AssemblyInfo.cs
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.sourcelink.json
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.dll
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\refint\EasySave.Core.dll
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.pdb
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Core\bin\Debug\net8.0\EasySave.Core.deps.json
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Core\bin\Debug\net8.0\EasySave.Core.dll
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Core\bin\Debug\net8.0\EasySave.Core.pdb
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Core\bin\Debug\net8.0\en\EasySave.Core.resources.dll
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Core\bin\Debug\net8.0\fr\EasySave.Core.resources.dll
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\en\EasySave.Core.resources.dll
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\fr\EasySave.Core.resources.dll
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\ref\EasySave.Core.dll
+C:\Users\pauli\source\repos\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.Properties.Resources.resources
+C:\Users\pauli\source\repos\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.Properties.Resources.en.resources
+C:\Users\pauli\source\repos\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.Properties.Resources.fr.resources
+C:\Users\pauli\source\repos\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.csproj.GenerateResource.cache
+C:\Users\pauli\source\repos\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\source\repos\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.AssemblyInfoInputs.cache
+C:\Users\pauli\source\repos\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.AssemblyInfo.cs
+C:\Users\pauli\source\repos\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.csproj.CoreCompileInputs.cache
+C:\Users\pauli\source\repos\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.dll
+C:\Users\pauli\source\repos\EasySave\EasySave.Core\obj\Debug\net8.0\refint\EasySave.Core.dll
+C:\Users\pauli\source\repos\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.pdb
+C:\Users\pauli\source\repos\EasySave\EasySave.Core\bin\Debug\net8.0\EasySave.Core.deps.json
+C:\Users\pauli\source\repos\EasySave\EasySave.Core\bin\Debug\net8.0\EasySave.Core.dll
+C:\Users\pauli\source\repos\EasySave\EasySave.Core\bin\Debug\net8.0\EasySave.Core.pdb
+C:\Users\pauli\source\repos\EasySave\EasySave.Core\bin\Debug\net8.0\en\EasySave.Core.resources.dll
+C:\Users\pauli\source\repos\EasySave\EasySave.Core\bin\Debug\net8.0\fr\EasySave.Core.resources.dll
+C:\Users\pauli\source\repos\EasySave\EasySave.Core\obj\Debug\net8.0\en\EasySave.Core.resources.dll
+C:\Users\pauli\source\repos\EasySave\EasySave.Core\obj\Debug\net8.0\fr\EasySave.Core.resources.dll
+C:\Users\pauli\source\repos\EasySave\EasySave.Core\obj\Debug\net8.0\ref\EasySave.Core.dll
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Core\bin\Debug\net8.0\EasySave.Core.deps.json
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Core\bin\Debug\net8.0\EasySave.Core.dll
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Core\bin\Debug\net8.0\EasySave.Core.pdb
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Core\bin\Debug\net8.0\en\EasySave.Core.resources.dll
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Core\bin\Debug\net8.0\fr\EasySave.Core.resources.dll
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.Properties.Resources.resources
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.Properties.Resources.en.resources
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.Properties.Resources.fr.resources
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.csproj.GenerateResource.cache
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.AssemblyInfoInputs.cache
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.AssemblyInfo.cs
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.csproj.CoreCompileInputs.cache
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.sourcelink.json
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\en\EasySave.Core.resources.dll
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\fr\EasySave.Core.resources.dll
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.dll
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\refint\EasySave.Core.dll
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.pdb
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\ref\EasySave.Core.dll
+C:\Users\pauli\source\repos\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.csproj.AssemblyReference.cache
+C:\Users\pauli\source\repos\EasySave\EasySave.Core\bin\Debug\net8.0\Logger.dll
+C:\Users\pauli\source\repos\EasySave\EasySave.Core\bin\Debug\net8.0\Logger.pdb
+C:\Users\pauli\source\repos\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.ACFA3529.Up2Date
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Core\bin\Debug\net8.0\Logger.dll
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Core\bin\Debug\net8.0\Logger.pdb
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.Core.csproj.AssemblyReference.cache
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Core\obj\Debug\net8.0\EasySave.ACFA3529.Up2Date

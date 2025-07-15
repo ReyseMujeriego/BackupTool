@@ -1,0 +1,408 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="BackToMenu" xml:space="preserve">
+    <value>0️ -- Retour au menu principal</value>
+  </data>
+  <data name="BusinessSoftwareRunning" xml:space="preserve">
+    <value>Un logiciel métier est en cour d'éxecution. Sauvegarde impossible.</value>
+  </data>
+  <data name="ChangeLanguage" xml:space="preserve">
+    <value>Changer le language du système</value>
+  </data>
+  <data name="ChangeLogsFormat" xml:space="preserve">
+    <value> Changer le format des logs.</value>
+  </data>
+  <data name="CompleteSaveStart" xml:space="preserve">
+    <value>💾 Effectuer une sauvegarde complète de {0} vers {1}...</value>
+  </data>
+  <data name="CompleteSaveSuccess" xml:space="preserve">
+    <value>✅ Sauvegarde complète terminée.</value>
+  </data>
+  <data name="ConfigureEncryption" xml:space="preserve">
+    <value> Configurer le chiffrement</value>
+  </data>
+  <data name="ConfirmDeleteJob" xml:space="preserve">
+    <value>Êtes-vous sûr de vouloir supprimer ce job ?</value>
+  </data>
+  <data name="ConfirmEnableEncryption" xml:space="preserve">
+    <value> Voulez-vous activer le chiffrement ?</value>
+  </data>
+  <data name="ConfirmSaveJobChanges" xml:space="preserve">
+    <value />
+  </data>
+  <data name="CreateJob" xml:space="preserve">
+    <value> Créer et ajouter un Job</value>
+  </data>
+  <data name="DecryptCustomPath" xml:space="preserve">
+    <value>2️ -- Déchiffrer un dossier spécifique</value>
+  </data>
+  <data name="DecryptExistingJob" xml:space="preserve">
+    <value>1️ -- Déchiffrer un Job existant</value>
+  </data>
+  <data name="DecryptFiles" xml:space="preserve">
+    <value> Déchiffrer des fichiers</value>
+  </data>
+  <data name="DecryptFilesMenu" xml:space="preserve">
+    <value>🔓 Menu de déchiffrement des fichiers</value>
+  </data>
+  <data name="DecryptingFiles" xml:space="preserve">
+    <value>🔓 Déchiffrement de {0} fichiers...</value>
+  </data>
+  <data name="DecryptingFiles " xml:space="preserve">
+    <value>Déchiffrement de {0} fichiers en cours...</value>
+  </data>
+  <data name="DecryptionComplete" xml:space="preserve">
+    <value>✅ Tous les fichiers ont été déchiffrés avec succès. </value>
+  </data>
+  <data name="DecryptionCompletedJob" xml:space="preserve">
+    <value>🔓 Déchiffrement terminé pour le job '{0}'.</value>
+  </data>
+  <data name="DecryptionCompletedPath" xml:space="preserve">
+    <value>🔓 Déchiffrement terminé pour le chemin '{0}'. </value>
+  </data>
+  <data name="DecryptionFailed " xml:space="preserve">
+    <value>❌ Échec du déchiffrement du fichier {0} : {1}</value>
+  </data>
+  <data name="DecryptionNoAction" xml:space="preserve">
+    <value>❌ Aucune action de déchiffrement effectuée.</value>
+  </data>
+  <data name="DecryptJobOrPath" xml:space="preserve">
+    <value> Voulez-vous déchiffrer un job existant (O) ou un chemin spécifique (N) ?</value>
+  </data>
+  <data name="DestinationCreated" xml:space="preserve">
+    <value>📂 Création du répertoire de destination : {0}</value>
+  </data>
+  <data name="DifferentialSaveStart" xml:space="preserve">
+    <value>🆕 Effectuer une sauvegarde différentielle de {0} vers {1}...</value>
+  </data>
+  <data name="DifferentialSaveSuccess" xml:space="preserve">
+    <value>✅ Sauvegarde différentielle terminée.</value>
+  </data>
+  <data name="EnableEncryption" xml:space="preserve">
+    <value>Voulez-vous activer le chiffrement des fichiers ? (y/n)</value>
+  </data>
+  <data name="EncryptionConfigured" xml:space="preserve">
+    <value>✅ Le chiffrement a été configuré avec succès.</value>
+  </data>
+  <data name="EncryptionDisabled" xml:space="preserve">
+    <value> ❌ Le chiffrement est désactivé.</value>
+  </data>
+  <data name="EncryptionFailed" xml:space="preserve">
+    <value>❌ Échec du chiffrement du fichier {0} : {1}</value>
+  </data>
+  <data name="EnoughJobs" xml:space="preserve">
+    <value>Maximum de job atteint</value>
+  </data>
+  <data name="EnterDestination" xml:space="preserve">
+    <value>Dossier cible : </value>
+  </data>
+  <data name="EnterEncryptionKey" xml:space="preserve">
+    <value>🔑 Entrez votre clé de chiffrement (64 bits minimum) :</value>
+  </data>
+  <data name="EnterExtensionsToEncrypt" xml:space="preserve">
+    <value>📂 Entrez les extensions de fichiers à chiffrer (ex: .txt, .pdf, .docx) :</value>
+  </data>
+  <data name="EnterJobIndexesToExecute" xml:space="preserve">
+    <value>Entrez les indices des jobs à exécuter (séparés par des virgules, ex: 1,2 ou 1-3) : </value>
+  </data>
+  <data name="EnterJobIndexToExecute" xml:space="preserve">
+    <value>Entrez l'indice du job à exécuter (entre 1 et 5) : </value>
+  </data>
+  <data name="EnterJobName" xml:space="preserve">
+    <value>Veuillez saisir le nom du Job à créer : </value>
+  </data>
+  <data name="EnterJobNameToDecrypt" xml:space="preserve">
+    <value>🗂 Entrez le nom du Job à déchiffrer :</value>
+  </data>
+  <data name="EnterJobNameToDelete" xml:space="preserve">
+    <value>Nom du job à supprimer : </value>
+  </data>
+  <data name="EnterJobNameToUpdate" xml:space="preserve">
+    <value>Nom du job à modifier : </value>
+  </data>
+  <data name="EnterJobToDecrypt" xml:space="preserve">
+    <value>Entrez le nom du job à déchiffrer :</value>
+  </data>
+  <data name="EnterJobType" xml:space="preserve">
+    <value>Type de sauvegarde (1=Complète, 2=Différentielle) : </value>
+  </data>
+  <data name="EnterLogsFormat" xml:space="preserve">
+    <value>📄 Choisissez le format des logs (json/xml) : </value>
+  </data>
+  <data name="EnterPathToDecrypt" xml:space="preserve">
+    <value>📂 Entrez le chemin du dossier contenant les fichiers à déchiffrer :</value>
+  </data>
+  <data name="EnterSource" xml:space="preserve">
+    <value>Dossier Source : </value>
+  </data>
+  <data name="ExecuteJob" xml:space="preserve">
+    <value> Exécuter un Job</value>
+  </data>
+  <data name="ExecuteMultipleJobs" xml:space="preserve">
+    <value> Exécuter plusieurs Jobs</value>
+  </data>
+  <data name="ExecutingJob" xml:space="preserve">
+    <value>Execution du job '{0}'</value>
+  </data>
+  <data name="ExecutingMultipleJobs" xml:space="preserve">
+    <value>Début de l'éxecution de {0} jobs.</value>
+  </data>
+  <data name="Exit" xml:space="preserve">
+    <value> Quitter</value>
+  </data>
+  <data name="FileCopyError" xml:space="preserve">
+    <value>❌ Erreur lors de la copie du fichier {0} : {1}</value>
+  </data>
+  <data name="FileDecrypted" xml:space="preserve">
+    <value>✅ Fichier {0} déchiffré en {1} ms.</value>
+  </data>
+  <data name="FileEncrypted" xml:space="preserve">
+    <value>✅ Fichier {0} chiffré en {1} ms.</value>
+  </data>
+  <data name="FileNotEncrypted" xml:space="preserve">
+    <value>ℹ️ Le fichier {0} n'est pas chiffré.</value>
+  </data>
+  <data name="FileNotModified" xml:space="preserve">
+    <value>🔄 Le fichier {0} n'a pas été modifié.</value>
+  </data>
+  <data name="Goodbye" xml:space="preserve">
+    <value>👋 Fermeture du programme...</value>
+  </data>
+  <data name="InvalidChoice" xml:space="preserve">
+    <value>❌ Choix invalide, réessayez.</value>
+  </data>
+  <data name="InvalidIndex" xml:space="preserve">
+    <value>❌ Erreur : Veuillez entrer un indice valide.</value>
+  </data>
+  <data name="InvalidIndexes" xml:space="preserve">
+    <value>❌ Erreur : Veuillez entrer des indices valides.</value>
+  </data>
+  <data name="InvalidInput" xml:space="preserve">
+    <value>⚠ Entrée invalide!</value>
+  </data>
+  <data name="InvalidLogsFormat" xml:space="preserve">
+    <value>❌ Format invalide. Veuillez entrer 'json' ou 'xml'.</value>
+  </data>
+  <data name="InvalidPath" xml:space="preserve">
+    <value>❌ Le chemin {0} est invalide ou inaccessible.</value>
+  </data>
+  <data name="JobAdded" xml:space="preserve">
+    <value>📂 Job '{0}' ajouté ({1}) - Source: {2} → Destination: {3}</value>
+  </data>
+  <data name="JobDeleted" xml:space="preserve">
+    <value>🗑️ Job '{0}' supprimé.</value>
+  </data>
+  <data name="JobExecutionStarted" xml:space="preserve">
+    <value>▶️ Exécution du job : {0}</value>
+  </data>
+  <data name="JobExists" xml:space="preserve">
+    <value>❌ Erreur : Un job nommé '{0}' existe déjà !</value>
+  </data>
+  <data name="JobIndexNotFound" xml:space="preserve">
+    <value>❌ Erreur : Aucun job à l'index {0}</value>
+  </data>
+  <data name="JobLists" xml:space="preserve">
+    <value>\n📁 Liste des jobs :\n</value>
+  </data>
+  <data name="JobModified" xml:space="preserve">
+    <value>✏️ Modification du job : {0}</value>
+  </data>
+  <data name="JobNotFound" xml:space="preserve">
+    <value>❌ Impossible de supprimer : Aucun job nommé '{0}' trouvé.</value>
+  </data>
+  <data name="JobUpdated" xml:space="preserve">
+    <value>🔄 Job '{0}' mis à jour : {1} ({2}) - Source: {3} → Destination: {4}</value>
+  </data>
+  <data name="ListJobs" xml:space="preserve">
+    <value> Lister les Jobs</value>
+  </data>
+  <data name="LogFormatChanged" xml:space="preserve">
+    <value>✅ Format des logs changé : {0}</value>
+  </data>
+  <data name="LogFormatSet" xml:space="preserve">
+    <value>✅ Format des logs défini sur : {0}</value>
+  </data>
+  <data name="MenuTitle" xml:space="preserve">
+    <value>Veuillez choisir une action à effectuer</value>
+  </data>
+  <data name="ModifiedFileCopied" xml:space="preserve">
+    <value>✅ Fichier modifié copié : {0} → {1}</value>
+  </data>
+  <data name="MultipleJobsComplete" xml:space="preserve">
+    <value>✅ Toutes les sauvegardes ont été effectuées avec succès.</value>
+  </data>
+  <data name="MultipleJobsExecuted" xml:space="preserve">
+    <value>▶️ Exécution de {0} jobs sélectionnés.</value>
+  </data>
+  <data name="MultipleJobsExecuting" xml:space="preserve">
+    <value>🚀 Exécution de la sauvegarde séquentielle...</value>
+  </data>
+  <data name="NewDestinationOptional" xml:space="preserve">
+    <value>Nouveau dossier cible (laisser vide pour garder l'ancien) : </value>
+  </data>
+  <data name="NewFileCopied" xml:space="preserve">
+    <value>📁 Nouveau fichier copié : {0} → {1}</value>
+  </data>
+  <data name="NewNameOptional" xml:space="preserve">
+    <value>Nouveau nom (laisser vide pour garder l'ancien) : </value>
+  </data>
+  <data name="NewSourceOptional" xml:space="preserve">
+    <value>Nouveau dossier source (laisser vide pour garder l'ancien) : </value>
+  </data>
+  <data name="NoEncryptedFiles" xml:space="preserve">
+    <value>Aucun fichier chiffré trouvé dans le dossier : {0}</value>
+  </data>
+  <data name="NoFilesToDecrypt" xml:space="preserve">
+    <value>ℹ️ Aucun fichier chiffré trouvé</value>
+  </data>
+  <data name="NoJobs" xml:space="preserve">
+    <value>Aucun job enregistré.</value>
+  </data>
+  <data name="NoJobsToExecute" xml:space="preserve">
+    <value>Erreur aucun jobs ne sera éxecuté</value>
+  </data>
+  <data name="RemoveJob" xml:space="preserve">
+    <value> Supprimer un Job</value>
+  </data>
+  <data name="SelectAtLeastOneJob" xml:space="preserve">
+    <value>Veuillez sélectionner au moins un job.</value>
+  </data>
+  <data name="SelectJobToEdit" xml:space="preserve">
+    <value>Veuillez sélectionner un job à modifier.</value>
+  </data>
+  <data name="SelectLanguage" xml:space="preserve">
+    <value>Choisissez votre language / Choose your language : </value>
+  </data>
+  <data name="SourceDirectoryNotFound" xml:space="preserve">
+    <value>❌ Le répertoire source n'existe pas.</value>
+  </data>
+  <data name="UnknowSaveType" xml:space="preserve">
+    <value>❌ Erreur : Type de sauvegarde inconnu.</value>
+  </data>
+  <data name="UnrecognizedLanguage" xml:space="preserve">
+    <value>❌ Erreur : Langue non reconnue. Veuillez entrer 'fr' ou 'en'.</value>
+  </data>
+  <data name="UpdateJob" xml:space="preserve">
+    <value> Modifier un Job</value>
+  </data>
+  <data name="YourChoice" xml:space="preserve">
+    <value>👉 Choix : </value>
+  </data>
+</root>

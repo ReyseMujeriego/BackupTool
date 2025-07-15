@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\EasySave.Command",
+    "\\EasySave.Core",
+    "\\EasySave.Core\\Services"
+  ],
+  "SelectedNode": "\\EasySave.Core\\Services\\Logger.cs",
+  "PreviewInSolutionExplorer": false
+}

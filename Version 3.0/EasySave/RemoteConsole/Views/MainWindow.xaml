@@ -1,0 +1,95 @@
+﻿<Window x:Class="EasySave.RemoteConsole.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:EasySave.RemoteConsole.Utils"
+        Title="EasySave Remote Console" Height="800" Width="1000"
+        WindowStartupLocation="CenterScreen" MinWidth="800" MinHeight="500">
+
+    <Window.Resources>
+        <local:UILanguageManager x:Key="LangManager"/>
+
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="#7FB1AF"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontSize" Value="15"/>
+            <Setter Property="Padding" Value="10,5"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}" 
+                                CornerRadius="10" 
+                                Padding="{TemplateBinding Padding}">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <!-- Actions -->
+            <RowDefinition Height="*"/>
+            <!-- Job Table -->
+            <RowDefinition Height="5"/>
+            <!-- GridSplitter -->
+            <RowDefinition Height="0.7*"/>
+            <!-- Logs -->
+        </Grid.RowDefinitions>
+
+        <!-- Boutons de gestion des Jobs -->
+        <StackPanel Orientation="Horizontal" Grid.Row="0" HorizontalAlignment="Center" Margin="10">
+            <Button Content="{Binding Source={StaticResource LangManager}, Path=PauseJob}" 
+                    Command="{Binding PauseCommand}" Margin="5"/>
+            <Button Content="{Binding Source={StaticResource LangManager}, Path=ResumeJob}" 
+                    Command="{Binding ResumeCommand}" Margin="5"/>
+
+            <Button Content="{Binding Source={StaticResource LangManager}, Path=StopJob}" 
+                    Command="{Binding StopCommand}" Margin="5"/>
+        </StackPanel>
+
+        <!-- Jobs Table  -->
+        <GroupBox Header="{Binding Source={StaticResource LangManager}, Path=JobsListTitle}" Grid.Row="1" Margin="5">
+            <Grid>
+                <ListView x:Name="JobListView" ItemsSource="{Binding Jobs}" SelectedItem="{Binding SelectedJob, Mode=TwoWay}"
+                          SelectionMode="Single"
+                          VerticalAlignment="Stretch" HorizontalAlignment="Stretch"
+                          Margin="10" BorderBrush="#F2F7F7" Padding="10">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="{Binding Source={StaticResource LangManager}, Path=JobName}" DisplayMemberBinding="{Binding Name}"  Width="200"/>
+                            <GridViewColumn Header="{Binding Source={StaticResource LangManager}, Path=JobSource}" DisplayMemberBinding="{Binding SourcePath}" Width="250"/>
+                            <GridViewColumn Header="{Binding Source={StaticResource LangManager}, Path=JobDestination}" DisplayMemberBinding="{Binding DestinationPath}" Width="250"/>
+                            <GridViewColumn Header="{Binding Source={StaticResource LangManager}, Path=JobType}" DisplayMemberBinding="{Binding SaveType}" Width="220"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+            </Grid>
+        </GroupBox>
+
+        <GridSplitter Grid.Row="2" Height="5" Background="Gray" HorizontalAlignment="Stretch" VerticalAlignment="Center"/>
+
+        <GroupBox
+     Grid.Row="3"
+     Grid.Column="0"
+     Margin="5"
+     Header="{Binding Source={StaticResource LangManager}, Path=ConsoleLogTitle}">
+            <Grid>
+                <TextBox
+             x:Name="ConsoleLogBox"
+             HorizontalAlignment="Stretch"
+             VerticalAlignment="Stretch"
+             Background="DarkGray"
+             FontStyle="Italic"
+             Foreground="White"
+             IsReadOnly="True"
+             Text="{Binding ConsoleLog, Mode=OneWay}"
+             TextWrapping="Wrap"
+             VerticalScrollBarVisibility="Auto" />
+            </Grid>
+        </GroupBox>
+
+    </Grid>
+</Window>

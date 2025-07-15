@@ -1,0 +1,12 @@
+D:\dl\Projet_Genie_Logiciel\EasySave\Logger\bin\Release\net8.0\Logger.deps.json
+D:\dl\Projet_Genie_Logiciel\EasySave\Logger\bin\Release\net8.0\Logger.dll
+D:\dl\Projet_Genie_Logiciel\EasySave\Logger\bin\Release\net8.0\Logger.pdb
+D:\dl\Projet_Genie_Logiciel\EasySave\Logger\obj\Release\net8.0\Logger.GeneratedMSBuildEditorConfig.editorconfig
+D:\dl\Projet_Genie_Logiciel\EasySave\Logger\obj\Release\net8.0\Logger.AssemblyInfoInputs.cache
+D:\dl\Projet_Genie_Logiciel\EasySave\Logger\obj\Release\net8.0\Logger.AssemblyInfo.cs
+D:\dl\Projet_Genie_Logiciel\EasySave\Logger\obj\Release\net8.0\Logger.csproj.CoreCompileInputs.cache
+D:\dl\Projet_Genie_Logiciel\EasySave\Logger\obj\Release\net8.0\Logger.sourcelink.json
+D:\dl\Projet_Genie_Logiciel\EasySave\Logger\obj\Release\net8.0\Logger.dll
+D:\dl\Projet_Genie_Logiciel\EasySave\Logger\obj\Release\net8.0\refint\Logger.dll
+D:\dl\Projet_Genie_Logiciel\EasySave\Logger\obj\Release\net8.0\Logger.pdb
+D:\dl\Projet_Genie_Logiciel\EasySave\Logger\obj\Release\net8.0\ref\Logger.dll

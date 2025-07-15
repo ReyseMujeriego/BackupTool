@@ -1,0 +1,6 @@
+D:\dl\Projet_Genie_Logiciel\EasySave\CryptoSoft\bin\Release\CryptoSoft.dll
+D:\dl\Projet_Genie_Logiciel\EasySave\CryptoSoft\bin\Release\CryptoSoft.pdb
+D:\dl\Projet_Genie_Logiciel\EasySave\CryptoSoft\obj\Release\CryptoSoft.csproj.AssemblyReference.cache
+D:\dl\Projet_Genie_Logiciel\EasySave\CryptoSoft\obj\Release\CryptoSoft.csproj.CoreCompileInputs.cache
+D:\dl\Projet_Genie_Logiciel\EasySave\CryptoSoft\obj\Release\CryptoSoft.dll
+D:\dl\Projet_Genie_Logiciel\EasySave\CryptoSoft\obj\Release\CryptoSoft.pdb

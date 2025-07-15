@@ -1,0 +1,82 @@
+C:\Users\pauli\source\repos\EasySave\Logger\bin\Debug\net8.0\Logger.deps.json
+C:\Users\pauli\source\repos\EasySave\Logger\bin\Debug\net8.0\Logger.dll
+C:\Users\pauli\source\repos\EasySave\Logger\bin\Debug\net8.0\Logger.pdb
+C:\Users\pauli\source\repos\EasySave\Logger\obj\Debug\net8.0\Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\source\repos\EasySave\Logger\obj\Debug\net8.0\Logger.AssemblyInfoInputs.cache
+C:\Users\pauli\source\repos\EasySave\Logger\obj\Debug\net8.0\Logger.AssemblyInfo.cs
+C:\Users\pauli\source\repos\EasySave\Logger\obj\Debug\net8.0\Logger.csproj.CoreCompileInputs.cache
+C:\Users\pauli\source\repos\EasySave\Logger\obj\Debug\net8.0\Logger.dll
+C:\Users\pauli\source\repos\EasySave\Logger\obj\Debug\net8.0\refint\Logger.dll
+C:\Users\pauli\source\repos\EasySave\Logger\obj\Debug\net8.0\Logger.pdb
+C:\Users\pauli\source\repos\EasySave\Logger\obj\Debug\net8.0\ref\Logger.dll
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\Logger\bin\Debug\net8.0\Logger.deps.json
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\Logger\bin\Debug\net8.0\Logger.dll
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\Logger\bin\Debug\net8.0\Logger.pdb
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\Logger\obj\Debug\net8.0\Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\Logger\obj\Debug\net8.0\Logger.AssemblyInfoInputs.cache
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\Logger\obj\Debug\net8.0\Logger.AssemblyInfo.cs
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\Logger\obj\Debug\net8.0\Logger.csproj.CoreCompileInputs.cache
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\Logger\obj\Debug\net8.0\Logger.sourcelink.json
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\Logger\obj\Debug\net8.0\Logger.dll
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\Logger\obj\Debug\net8.0\refint\Logger.dll
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\Logger\obj\Debug\net8.0\Logger.pdb
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\Logger\obj\Debug\net8.0\ref\Logger.dll
+C:\Users\pauli\source\repos\Projet_Genie_Logiciel\Version 1.0\EasySave\Logger\bin\Debug\net8.0\Logger.deps.json
+C:\Users\pauli\source\repos\Projet_Genie_Logiciel\Version 1.0\EasySave\Logger\bin\Debug\net8.0\Logger.dll
+C:\Users\pauli\source\repos\Projet_Genie_Logiciel\Version 1.0\EasySave\Logger\bin\Debug\net8.0\Logger.pdb
+C:\Users\pauli\source\repos\Projet_Genie_Logiciel\Version 1.0\EasySave\Logger\obj\Debug\net8.0\Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\source\repos\Projet_Genie_Logiciel\Version 1.0\EasySave\Logger\obj\Debug\net8.0\Logger.AssemblyInfoInputs.cache
+C:\Users\pauli\source\repos\Projet_Genie_Logiciel\Version 1.0\EasySave\Logger\obj\Debug\net8.0\Logger.AssemblyInfo.cs
+C:\Users\pauli\source\repos\Projet_Genie_Logiciel\Version 1.0\EasySave\Logger\obj\Debug\net8.0\Logger.csproj.CoreCompileInputs.cache
+C:\Users\pauli\source\repos\Projet_Genie_Logiciel\Version 1.0\EasySave\Logger\obj\Debug\net8.0\Logger.sourcelink.json
+C:\Users\pauli\source\repos\Projet_Genie_Logiciel\Version 1.0\EasySave\Logger\obj\Debug\net8.0\Logger.dll
+C:\Users\pauli\source\repos\Projet_Genie_Logiciel\Version 1.0\EasySave\Logger\obj\Debug\net8.0\refint\Logger.dll
+C:\Users\pauli\source\repos\Projet_Genie_Logiciel\Version 1.0\EasySave\Logger\obj\Debug\net8.0\Logger.pdb
+C:\Users\pauli\source\repos\Projet_Genie_Logiciel\Version 1.0\EasySave\Logger\obj\Debug\net8.0\ref\Logger.dll
+C:\Users\alex-\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\Logger\obj\Debug\net8.0\Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex-\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\Logger\obj\Debug\net8.0\Logger.AssemblyInfoInputs.cache
+C:\Users\alex-\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\Logger\obj\Debug\net8.0\Logger.AssemblyInfo.cs
+C:\Users\alex-\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\Logger\obj\Debug\net8.0\Logger.csproj.CoreCompileInputs.cache
+C:\Users\alex-\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\Logger\obj\Debug\net8.0\Logger.sourcelink.json
+C:\Users\alex-\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\Logger\bin\Debug\net8.0\Logger.deps.json
+C:\Users\alex-\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\Logger\bin\Debug\net8.0\Logger.dll
+C:\Users\alex-\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\Logger\bin\Debug\net8.0\Logger.pdb
+C:\Users\alex-\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\Logger\obj\Debug\net8.0\Logger.dll
+C:\Users\alex-\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\Logger\obj\Debug\net8.0\refint\Logger.dll
+C:\Users\alex-\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\Logger\obj\Debug\net8.0\Logger.pdb
+C:\Users\alex-\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\Logger\obj\Debug\net8.0\ref\Logger.dll
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\Logger\bin\Debug\net8.0\Logger.deps.json
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\Logger\bin\Debug\net8.0\Logger.dll
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\Logger\bin\Debug\net8.0\Logger.pdb
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\Logger\obj\Debug\net8.0\Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\Logger\obj\Debug\net8.0\Logger.AssemblyInfoInputs.cache
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\Logger\obj\Debug\net8.0\Logger.AssemblyInfo.cs
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\Logger\obj\Debug\net8.0\Logger.csproj.CoreCompileInputs.cache
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\Logger\obj\Debug\net8.0\Logger.dll
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\Logger\obj\Debug\net8.0\refint\Logger.dll
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\Logger\obj\Debug\net8.0\Logger.pdb
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\Logger\obj\Debug\net8.0\ref\Logger.dll
+D:\dl\Projet_Genie_Logiciel\EasySave\Logger\bin\Debug\net8.0\Logger.deps.json
+D:\dl\Projet_Genie_Logiciel\EasySave\Logger\bin\Debug\net8.0\Logger.dll
+D:\dl\Projet_Genie_Logiciel\EasySave\Logger\bin\Debug\net8.0\Logger.pdb
+D:\dl\Projet_Genie_Logiciel\EasySave\Logger\obj\Debug\net8.0\Logger.GeneratedMSBuildEditorConfig.editorconfig
+D:\dl\Projet_Genie_Logiciel\EasySave\Logger\obj\Debug\net8.0\Logger.AssemblyInfoInputs.cache
+D:\dl\Projet_Genie_Logiciel\EasySave\Logger\obj\Debug\net8.0\Logger.AssemblyInfo.cs
+D:\dl\Projet_Genie_Logiciel\EasySave\Logger\obj\Debug\net8.0\Logger.csproj.CoreCompileInputs.cache
+D:\dl\Projet_Genie_Logiciel\EasySave\Logger\obj\Debug\net8.0\Logger.sourcelink.json
+D:\dl\Projet_Genie_Logiciel\EasySave\Logger\obj\Debug\net8.0\Logger.dll
+D:\dl\Projet_Genie_Logiciel\EasySave\Logger\obj\Debug\net8.0\refint\Logger.dll
+D:\dl\Projet_Genie_Logiciel\EasySave\Logger\obj\Debug\net8.0\Logger.pdb
+D:\dl\Projet_Genie_Logiciel\EasySave\Logger\obj\Debug\net8.0\ref\Logger.dll
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\Logger\bin\Debug\net8.0\Logger.deps.json
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\Logger\bin\Debug\net8.0\Logger.dll
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\Logger\bin\Debug\net8.0\Logger.pdb
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\Logger\obj\Debug\net8.0\Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\Logger\obj\Debug\net8.0\Logger.AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\Logger\obj\Debug\net8.0\Logger.AssemblyInfo.cs
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\Logger\obj\Debug\net8.0\Logger.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\Logger\obj\Debug\net8.0\Logger.sourcelink.json
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\Logger\obj\Debug\net8.0\Logger.dll
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\Logger\obj\Debug\net8.0\refint\Logger.dll
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\Logger\obj\Debug\net8.0\Logger.pdb
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\Logger\obj\Debug\net8.0\ref\Logger.dll

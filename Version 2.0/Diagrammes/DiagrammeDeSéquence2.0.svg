@@ -1,0 +1,376 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg viewBox="0 0 2176 3641" xmlns="http://www.w3.org/2000/svg" xmlns:inkspace="http://www.inkscape.org/namespaces/inkscape" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs id="defs_block">
+    <filter height="1.504" id="filter_blur" inkspace:collect="always" width="1.1575" x="-0.07875" y="-0.252">
+      <feGaussianBlur id="feGaussianBlur3780" inkspace:collect="always" stdDeviation="4.2" />
+    </filter>
+  </defs>
+  <title>blockdiag</title>
+  <desc>seqdiag {
+  User -&gt; ConsoleView [label = "Sélectionner la langue (fr/en)"];
+  ConsoleView -&gt; JobViewModel [label = "Changer langue"];
+  JobViewModel -&gt; LanguageManager [label = "Appliquer la langue"];
+  LanguageManager -&gt; JobViewModel [label = "Langue configurée"];
+  JobViewModel -&gt; ConsoleView [label = "Confirmer changement de langue"];
+
+  User -&gt; ConsoleView [label = "Activer/désactiver chiffrement"];
+  User -&gt; ConsoleView [label = "Définir clé de chiffrement"];
+  User -&gt; ConsoleView [label = "Définir extensions à chiffrer"];
+  ConsoleView -&gt; JobViewModel [label = "Configurer chiffrement"];
+  JobViewModel -&gt; EncryptionModel [label = "Stocker paramètres chiffrement"];
+  EncryptionModel -&gt; ConfigManager [label = "Sauvegarder configuration"];
+  EncryptionModel -&gt; JobViewModel [label = "Confirmation mise à jour"];
+  JobViewModel -&gt; ConsoleView [label = "Confirmation affichée"];
+
+  User -&gt; ConsoleView [label = "Créer un job"];
+  ConsoleView -&gt; JobViewModel [label = "Ajouter un job"];
+  JobViewModel -&gt; JobManager [label = "Créer et ajouter un job"];
+  JobManager -&gt; JobViewModel [label = "Confirmation ajout"];
+  JobViewModel -&gt; ConsoleView [label = "Affichage confirmation"];
+
+  User -&gt; ConsoleView [label = "Supprimer un job"];
+  ConsoleView -&gt; JobViewModel [label = "Demander suppression"];
+  JobViewModel -&gt; JobManager [label = "Supprimer le job"];
+  JobManager -&gt; JobViewModel [label = "Confirmation suppression"];
+  JobViewModel -&gt; ConsoleView [label = "Affichage confirmation"];
+
+  User -&gt; ConsoleView [label = "Modifier un job"];
+  ConsoleView -&gt; JobViewModel [label = "Mettre à jour job"];
+  JobViewModel -&gt; JobManager [label = "Modifier et sauvegarder job"];
+  JobManager -&gt; JobViewModel [label = "Confirmation mise à jour"];
+  JobViewModel -&gt; ConsoleView [label = "Affichage confirmation"];
+
+  User -&gt; ConsoleView [label = "Exécuter un ou plusieurs jobs"];
+  ConsoleView -&gt; JobViewModel [label = "Récupérer et exécuter jobs"];
+  JobViewModel -&gt; JobManager [label = "Sélectionner jobs"];
+  JobManager -&gt; SaveManager [label = "Lancer les jobs"];
+
+  SaveManager -&gt; CryptoService [label = "Vérifier si chiffrement nécessaire"];
+  CryptoService -&gt; EncryptionModel [label = "Vérifier activation et extensions"];
+  CryptoService -&gt; CryptoSoft_DLL [label = "Demander chiffrement"];
+  CryptoSoft_DLL -&gt; CryptoService [label = "Statut chiffrement"];
+  SaveManager -&gt; RealTimeLogger [label = "Mettre à jour état en temps réel"];
+  SaveManager -&gt; JobViewModel [label = "Sauvegarde terminée"];
+  JobViewModel -&gt; ConsoleView [label = "Affichage confirmation"];
+
+  User -&gt; ConsoleView [label = "Déchiffrer un fichier ou un dossier"];
+  ConsoleView -&gt; JobViewModel [label = "Demande de déchiffrement"];
+  JobViewModel -&gt; CryptoService [label = "Vérifier si fichiers chiffrés"];
+  CryptoService -&gt; CryptoSoft_DLL [label = "Demander déchiffrement"];
+  CryptoSoft_DLL -&gt; CryptoService [label = "Statut déchiffrement"];
+  CryptoService -&gt; JobViewModel [label = "Déchiffrement terminé"];
+  JobViewModel -&gt; ConsoleView [label = "Affichage confirmation"];
+
+  User -&gt; ConsoleView [label = "Afficher logs en temps réel"];
+  ConsoleView -&gt; JobViewModel [label = "Demande des logs"];
+  JobViewModel -&gt; RealTimeLogger [label = "Récupérer état sauvegarde"];
+  RealTimeLogger -&gt; JobViewModel [label = "Retourne état en temps réel"];
+  JobViewModel -&gt; ConsoleView [label = "Affichage état en temps réel"];
+}</desc>
+  <rect fill="rgb(0,0,0)" height="3462" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="127" y="157" />
+  <rect fill="rgb(0,0,0)" height="3462" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="319" y="157" />
+  <rect fill="rgb(0,0,0)" height="3179" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="323" y="440" />
+  <rect fill="rgb(0,0,0)" height="3100" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="327" y="519" />
+  <rect fill="rgb(0,0,0)" height="3035" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="331" y="584" />
+  <rect fill="rgb(0,0,0)" height="2957" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="335" y="662" />
+  <rect fill="rgb(0,0,0)" height="2624" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="339" y="995" />
+  <rect fill="rgb(0,0,0)" height="2557" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="343" y="1062" />
+  <rect fill="rgb(0,0,0)" height="2289" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="347" y="1330" />
+  <rect fill="rgb(0,0,0)" height="2222" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="351" y="1397" />
+  <rect fill="rgb(0,0,0)" height="1954" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="355" y="1665" />
+  <rect fill="rgb(0,0,0)" height="1887" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="359" y="1732" />
+  <rect fill="rgb(0,0,0)" height="1619" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="363" y="2000" />
+  <rect fill="rgb(0,0,0)" height="1539" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="367" y="2080" />
+  <rect fill="rgb(0,0,0)" height="864" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="371" y="2755" />
+  <rect fill="rgb(0,0,0)" height="786" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="375" y="2833" />
+  <rect fill="rgb(0,0,0)" height="394" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="379" y="3225" />
+  <rect fill="rgb(0,0,0)" height="327" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="383" y="3292" />
+  <rect fill="rgb(0,0,0)" height="46" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="387" y="3573" />
+  <rect fill="rgb(0,0,0)" height="3395" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="511" y="224" />
+  <rect fill="rgb(0,0,0)" height="3261" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="515" y="358" />
+  <rect fill="rgb(0,0,0)" height="2890" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="519" y="729" />
+  <rect fill="rgb(0,0,0)" height="2689" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="523" y="930" />
+  <rect fill="rgb(0,0,0)" height="2490" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="527" y="1129" />
+  <rect fill="rgb(0,0,0)" height="2356" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="531" y="1263" />
+  <rect fill="rgb(0,0,0)" height="2155" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="535" y="1464" />
+  <rect fill="rgb(0,0,0)" height="2021" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="539" y="1598" />
+  <rect fill="rgb(0,0,0)" height="1820" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="543" y="1799" />
+  <rect fill="rgb(0,0,0)" height="1686" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="547" y="1933" />
+  <rect fill="rgb(0,0,0)" height="1472" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="551" y="2147" />
+  <rect fill="rgb(0,0,0)" height="931" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="555" y="2688" />
+  <rect fill="rgb(0,0,0)" height="721" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="559" y="2898" />
+  <rect fill="rgb(0,0,0)" height="461" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="563" y="3158" />
+  <rect fill="rgb(0,0,0)" height="260" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="567" y="3359" />
+  <rect fill="rgb(0,0,0)" height="126" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="571" y="3493" />
+  <rect fill="rgb(0,0,0)" height="3328" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="703" y="291" />
+  <rect fill="rgb(0,0,0)" height="2823" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="895" y="796" />
+  <rect fill="rgb(0,0,0)" height="1195" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="899" y="2424" />
+  <rect fill="rgb(0,0,0)" height="2756" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="1087" y="863" />
+  <rect fill="rgb(0,0,0)" height="2423" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="1279" y="1196" />
+  <rect fill="rgb(0,0,0)" height="2088" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="1283" y="1531" />
+  <rect fill="rgb(0,0,0)" height="1753" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="1287" y="1866" />
+  <rect fill="rgb(0,0,0)" height="1405" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="1291" y="2214" />
+  <rect fill="rgb(0,0,0)" height="1338" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="1471" y="2281" />
+  <rect fill="rgb(0,0,0)" height="1260" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="1663" y="2359" />
+  <rect fill="rgb(0,0,0)" height="1065" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="1667" y="2554" />
+  <rect fill="rgb(0,0,0)" height="656" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="1671" y="2963" />
+  <rect fill="rgb(0,0,0)" height="526" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="1675" y="3093" />
+  <rect fill="rgb(0,0,0)" height="1130" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="1855" y="2489" />
+  <rect fill="rgb(0,0,0)" height="591" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="1859" y="3028" />
+  <rect fill="rgb(0,0,0)" height="998" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="2047" y="2621" />
+  <rect fill="rgb(0,0,0)" height="193" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="8" x="2051" y="3426" />
+  <rect fill="rgb(0,0,0)" height="40" stroke="rgb(0,0,0)" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="128" x="67" y="46" />
+  <rect fill="rgb(0,0,0)" height="40" stroke="rgb(0,0,0)" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="128" x="259" y="46" />
+  <rect fill="rgb(0,0,0)" height="40" stroke="rgb(0,0,0)" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="128" x="451" y="46" />
+  <rect fill="rgb(0,0,0)" height="40" stroke="rgb(0,0,0)" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="128" x="643" y="46" />
+  <rect fill="rgb(0,0,0)" height="40" stroke="rgb(0,0,0)" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="128" x="835" y="46" />
+  <rect fill="rgb(0,0,0)" height="40" stroke="rgb(0,0,0)" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="128" x="1027" y="46" />
+  <rect fill="rgb(0,0,0)" height="40" stroke="rgb(0,0,0)" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="128" x="1219" y="46" />
+  <rect fill="rgb(0,0,0)" height="40" stroke="rgb(0,0,0)" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="128" x="1411" y="46" />
+  <rect fill="rgb(0,0,0)" height="40" stroke="rgb(0,0,0)" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="128" x="1603" y="46" />
+  <rect fill="rgb(0,0,0)" height="40" stroke="rgb(0,0,0)" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="128" x="1795" y="46" />
+  <rect fill="rgb(0,0,0)" height="40" stroke="rgb(0,0,0)" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="128" x="1987" y="46" />
+  <path d="M 128 80 L 128 3629" fill="none" stroke="rgb(0,0,0)" stroke-dasharray="8 4" />
+  <rect fill="moccasin" height="3462" stroke="rgb(0,0,0)" width="8" x="124" y="151" />
+  <path d="M 320 80 L 320 3629" fill="none" stroke="rgb(0,0,0)" stroke-dasharray="8 4" />
+  <rect fill="moccasin" height="3462" stroke="rgb(0,0,0)" width="8" x="316" y="151" />
+  <rect fill="moccasin" height="3179" stroke="rgb(0,0,0)" width="8" x="320" y="434" />
+  <rect fill="moccasin" height="3100" stroke="rgb(0,0,0)" width="8" x="324" y="513" />
+  <rect fill="moccasin" height="3035" stroke="rgb(0,0,0)" width="8" x="328" y="578" />
+  <rect fill="moccasin" height="2957" stroke="rgb(0,0,0)" width="8" x="332" y="656" />
+  <rect fill="moccasin" height="2624" stroke="rgb(0,0,0)" width="8" x="336" y="989" />
+  <rect fill="moccasin" height="2557" stroke="rgb(0,0,0)" width="8" x="340" y="1056" />
+  <rect fill="moccasin" height="2289" stroke="rgb(0,0,0)" width="8" x="344" y="1324" />
+  <rect fill="moccasin" height="2222" stroke="rgb(0,0,0)" width="8" x="348" y="1391" />
+  <rect fill="moccasin" height="1954" stroke="rgb(0,0,0)" width="8" x="352" y="1659" />
+  <rect fill="moccasin" height="1887" stroke="rgb(0,0,0)" width="8" x="356" y="1726" />
+  <rect fill="moccasin" height="1619" stroke="rgb(0,0,0)" width="8" x="360" y="1994" />
+  <rect fill="moccasin" height="1539" stroke="rgb(0,0,0)" width="8" x="364" y="2074" />
+  <rect fill="moccasin" height="864" stroke="rgb(0,0,0)" width="8" x="368" y="2749" />
+  <rect fill="moccasin" height="786" stroke="rgb(0,0,0)" width="8" x="372" y="2827" />
+  <rect fill="moccasin" height="394" stroke="rgb(0,0,0)" width="8" x="376" y="3219" />
+  <rect fill="moccasin" height="327" stroke="rgb(0,0,0)" width="8" x="380" y="3286" />
+  <rect fill="moccasin" height="46" stroke="rgb(0,0,0)" width="8" x="384" y="3567" />
+  <path d="M 512 80 L 512 3629" fill="none" stroke="rgb(0,0,0)" stroke-dasharray="8 4" />
+  <rect fill="moccasin" height="3395" stroke="rgb(0,0,0)" width="8" x="508" y="218" />
+  <rect fill="moccasin" height="3261" stroke="rgb(0,0,0)" width="8" x="512" y="352" />
+  <rect fill="moccasin" height="2890" stroke="rgb(0,0,0)" width="8" x="516" y="723" />
+  <rect fill="moccasin" height="2689" stroke="rgb(0,0,0)" width="8" x="520" y="924" />
+  <rect fill="moccasin" height="2490" stroke="rgb(0,0,0)" width="8" x="524" y="1123" />
+  <rect fill="moccasin" height="2356" stroke="rgb(0,0,0)" width="8" x="528" y="1257" />
+  <rect fill="moccasin" height="2155" stroke="rgb(0,0,0)" width="8" x="532" y="1458" />
+  <rect fill="moccasin" height="2021" stroke="rgb(0,0,0)" width="8" x="536" y="1592" />
+  <rect fill="moccasin" height="1820" stroke="rgb(0,0,0)" width="8" x="540" y="1793" />
+  <rect fill="moccasin" height="1686" stroke="rgb(0,0,0)" width="8" x="544" y="1927" />
+  <rect fill="moccasin" height="1472" stroke="rgb(0,0,0)" width="8" x="548" y="2141" />
+  <rect fill="moccasin" height="931" stroke="rgb(0,0,0)" width="8" x="552" y="2682" />
+  <rect fill="moccasin" height="721" stroke="rgb(0,0,0)" width="8" x="556" y="2892" />
+  <rect fill="moccasin" height="461" stroke="rgb(0,0,0)" width="8" x="560" y="3152" />
+  <rect fill="moccasin" height="260" stroke="rgb(0,0,0)" width="8" x="564" y="3353" />
+  <rect fill="moccasin" height="126" stroke="rgb(0,0,0)" width="8" x="568" y="3487" />
+  <path d="M 704 80 L 704 3629" fill="none" stroke="rgb(0,0,0)" stroke-dasharray="8 4" />
+  <rect fill="moccasin" height="3328" stroke="rgb(0,0,0)" width="8" x="700" y="285" />
+  <path d="M 896 80 L 896 3629" fill="none" stroke="rgb(0,0,0)" stroke-dasharray="8 4" />
+  <rect fill="moccasin" height="2823" stroke="rgb(0,0,0)" width="8" x="892" y="790" />
+  <rect fill="moccasin" height="1195" stroke="rgb(0,0,0)" width="8" x="896" y="2418" />
+  <path d="M 1088 80 L 1088 3629" fill="none" stroke="rgb(0,0,0)" stroke-dasharray="8 4" />
+  <rect fill="moccasin" height="2756" stroke="rgb(0,0,0)" width="8" x="1084" y="857" />
+  <path d="M 1280 80 L 1280 3629" fill="none" stroke="rgb(0,0,0)" stroke-dasharray="8 4" />
+  <rect fill="moccasin" height="2423" stroke="rgb(0,0,0)" width="8" x="1276" y="1190" />
+  <rect fill="moccasin" height="2088" stroke="rgb(0,0,0)" width="8" x="1280" y="1525" />
+  <rect fill="moccasin" height="1753" stroke="rgb(0,0,0)" width="8" x="1284" y="1860" />
+  <rect fill="moccasin" height="1405" stroke="rgb(0,0,0)" width="8" x="1288" y="2208" />
+  <path d="M 1472 80 L 1472 3629" fill="none" stroke="rgb(0,0,0)" stroke-dasharray="8 4" />
+  <rect fill="moccasin" height="1338" stroke="rgb(0,0,0)" width="8" x="1468" y="2275" />
+  <path d="M 1664 80 L 1664 3629" fill="none" stroke="rgb(0,0,0)" stroke-dasharray="8 4" />
+  <rect fill="moccasin" height="1260" stroke="rgb(0,0,0)" width="8" x="1660" y="2353" />
+  <rect fill="moccasin" height="1065" stroke="rgb(0,0,0)" width="8" x="1664" y="2548" />
+  <rect fill="moccasin" height="656" stroke="rgb(0,0,0)" width="8" x="1668" y="2957" />
+  <rect fill="moccasin" height="526" stroke="rgb(0,0,0)" width="8" x="1672" y="3087" />
+  <path d="M 1856 80 L 1856 3629" fill="none" stroke="rgb(0,0,0)" stroke-dasharray="8 4" />
+  <rect fill="moccasin" height="1130" stroke="rgb(0,0,0)" width="8" x="1852" y="2483" />
+  <rect fill="moccasin" height="591" stroke="rgb(0,0,0)" width="8" x="1856" y="3022" />
+  <path d="M 2048 80 L 2048 3629" fill="none" stroke="rgb(0,0,0)" stroke-dasharray="8 4" />
+  <rect fill="moccasin" height="998" stroke="rgb(0,0,0)" width="8" x="2044" y="2615" />
+  <rect fill="moccasin" height="193" stroke="rgb(0,0,0)" width="8" x="2048" y="3420" />
+  <rect fill="rgb(255,255,255)" height="40" stroke="rgb(0,0,0)" width="128" x="64" y="40" />
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="27" x="128.5" y="66">User</text>
+  <rect fill="rgb(255,255,255)" height="40" stroke="rgb(0,0,0)" width="128" x="256" y="40" />
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="72" x="320.0" y="66">ConsoleView</text>
+  <rect fill="rgb(255,255,255)" height="40" stroke="rgb(0,0,0)" width="128" x="448" y="40" />
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="82" x="512.0" y="67">JobViewModel</text>
+  <rect fill="rgb(255,255,255)" height="40" stroke="rgb(0,0,0)" width="128" x="640" y="40" />
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="106" x="704.0" y="67">LanguageManager</text>
+  <rect fill="rgb(255,255,255)" height="40" stroke="rgb(0,0,0)" width="128" x="832" y="40" />
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="97" x="896.5" y="67">EncryptionModel</text>
+  <rect fill="rgb(255,255,255)" height="40" stroke="rgb(0,0,0)" width="128" x="1024" y="40" />
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="88" x="1088.0" y="67">ConfigManager</text>
+  <rect fill="rgb(255,255,255)" height="40" stroke="rgb(0,0,0)" width="128" x="1216" y="40" />
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="70" x="1280.0" y="67">JobManager</text>
+  <rect fill="rgb(255,255,255)" height="40" stroke="rgb(0,0,0)" width="128" x="1408" y="40" />
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="78" x="1472.0" y="67">SaveManager</text>
+  <rect fill="rgb(255,255,255)" height="40" stroke="rgb(0,0,0)" width="128" x="1600" y="40" />
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="80" x="1664.0" y="67">CryptoService</text>
+  <rect fill="rgb(255,255,255)" height="40" stroke="rgb(0,0,0)" width="128" x="1792" y="40" />
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="90" x="1856.0" y="67">CryptoSoft_DLL</text>
+  <rect fill="rgb(255,255,255)" height="40" stroke="rgb(0,0,0)" width="128" x="1984" y="40" />
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="93" x="2048.5" y="67">RealTimeLogger</text>
+  <path d="M 136 151 L 312 151" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="304,147 312,151 304,155" stroke="rgb(0,0,0)" />
+  <path d="M 328 218 L 504 218" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="496,214 504,218 496,222" stroke="rgb(0,0,0)" />
+  <path d="M 520 285 L 696 285" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="688,281 696,285 688,289" stroke="rgb(0,0,0)" />
+  <path d="M 524 352 L 696 352" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="532,348 524,352 532,356" stroke="rgb(0,0,0)" />
+  <path d="M 332 434 L 504 434" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="340,430 332,434 340,438" stroke="rgb(0,0,0)" />
+  <path d="M 136 513 L 312 513" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="304,509 312,513 304,517" stroke="rgb(0,0,0)" />
+  <path d="M 136 578 L 312 578" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="304,574 312,578 304,582" stroke="rgb(0,0,0)" />
+  <path d="M 136 656 L 312 656" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="304,652 312,656 304,660" stroke="rgb(0,0,0)" />
+  <path d="M 344 723 L 504 723" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="496,719 504,723 496,727" stroke="rgb(0,0,0)" />
+  <path d="M 528 790 L 888 790" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="880,786 888,790 880,794" stroke="rgb(0,0,0)" />
+  <path d="M 904 857 L 1080 857" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="1072,853 1080,857 1072,861" stroke="rgb(0,0,0)" />
+  <path d="M 532 924 L 888 924" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="540,920 532,924 540,928" stroke="rgb(0,0,0)" />
+  <path d="M 348 989 L 504 989" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="356,985 348,989 356,993" stroke="rgb(0,0,0)" />
+  <path d="M 136 1056 L 312 1056" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="304,1052 312,1056 304,1060" stroke="rgb(0,0,0)" />
+  <path d="M 352 1123 L 504 1123" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="496,1119 504,1123 496,1127" stroke="rgb(0,0,0)" />
+  <path d="M 536 1190 L 1272 1190" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="1264,1186 1272,1190 1264,1194" stroke="rgb(0,0,0)" />
+  <path d="M 540 1257 L 1272 1257" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="548,1253 540,1257 548,1261" stroke="rgb(0,0,0)" />
+  <path d="M 356 1324 L 504 1324" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="364,1320 356,1324 364,1328" stroke="rgb(0,0,0)" />
+  <path d="M 136 1391 L 312 1391" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="304,1387 312,1391 304,1395" stroke="rgb(0,0,0)" />
+  <path d="M 360 1458 L 504 1458" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="496,1454 504,1458 496,1462" stroke="rgb(0,0,0)" />
+  <path d="M 544 1525 L 1272 1525" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="1264,1521 1272,1525 1264,1529" stroke="rgb(0,0,0)" />
+  <path d="M 548 1592 L 1272 1592" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="556,1588 548,1592 556,1596" stroke="rgb(0,0,0)" />
+  <path d="M 364 1659 L 504 1659" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="372,1655 364,1659 372,1663" stroke="rgb(0,0,0)" />
+  <path d="M 136 1726 L 312 1726" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="304,1722 312,1726 304,1730" stroke="rgb(0,0,0)" />
+  <path d="M 368 1793 L 504 1793" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="496,1789 504,1793 496,1797" stroke="rgb(0,0,0)" />
+  <path d="M 552 1860 L 1272 1860" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="1264,1856 1272,1860 1264,1864" stroke="rgb(0,0,0)" />
+  <path d="M 556 1927 L 1272 1927" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="564,1923 556,1927 564,1931" stroke="rgb(0,0,0)" />
+  <path d="M 372 1994 L 504 1994" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="380,1990 372,1994 380,1998" stroke="rgb(0,0,0)" />
+  <path d="M 136 2074 L 312 2074" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="304,2070 312,2074 304,2078" stroke="rgb(0,0,0)" />
+  <path d="M 376 2141 L 504 2141" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="496,2137 504,2141 496,2145" stroke="rgb(0,0,0)" />
+  <path d="M 560 2208 L 1272 2208" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="1264,2204 1272,2208 1264,2212" stroke="rgb(0,0,0)" />
+  <path d="M 1300 2275 L 1464 2275" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="1456,2271 1464,2275 1456,2279" stroke="rgb(0,0,0)" />
+  <path d="M 1480 2353 L 1656 2353" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="1648,2349 1656,2353 1648,2357" stroke="rgb(0,0,0)" />
+  <path d="M 908 2418 L 1656 2418" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="916,2414 908,2418 916,2422" stroke="rgb(0,0,0)" />
+  <path d="M 1672 2483 L 1848 2483" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="1840,2479 1848,2483 1840,2487" stroke="rgb(0,0,0)" />
+  <path d="M 1676 2548 L 1848 2548" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="1684,2544 1676,2548 1684,2552" stroke="rgb(0,0,0)" />
+  <path d="M 1480 2615 L 2040 2615" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="2032,2611 2040,2615 2032,2619" stroke="rgb(0,0,0)" />
+  <path d="M 564 2682 L 1464 2682" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="572,2678 564,2682 572,2686" stroke="rgb(0,0,0)" />
+  <path d="M 380 2749 L 504 2749" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="388,2745 380,2749 388,2753" stroke="rgb(0,0,0)" />
+  <path d="M 136 2827 L 312 2827" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="304,2823 312,2827 304,2831" stroke="rgb(0,0,0)" />
+  <path d="M 384 2892 L 504 2892" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="496,2888 504,2892 496,2896" stroke="rgb(0,0,0)" />
+  <path d="M 568 2957 L 1656 2957" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="1648,2953 1656,2957 1648,2961" stroke="rgb(0,0,0)" />
+  <path d="M 1680 3022 L 1848 3022" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="1840,3018 1848,3022 1840,3026" stroke="rgb(0,0,0)" />
+  <path d="M 1684 3087 L 1848 3087" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="1692,3083 1684,3087 1692,3091" stroke="rgb(0,0,0)" />
+  <path d="M 572 3152 L 1656 3152" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="580,3148 572,3152 580,3156" stroke="rgb(0,0,0)" />
+  <path d="M 388 3219 L 504 3219" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="396,3215 388,3219 396,3223" stroke="rgb(0,0,0)" />
+  <path d="M 136 3286 L 312 3286" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="304,3282 312,3286 304,3290" stroke="rgb(0,0,0)" />
+  <path d="M 392 3353 L 504 3353" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="496,3349 504,3353 496,3357" stroke="rgb(0,0,0)" />
+  <path d="M 576 3420 L 2040 3420" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="2032,3416 2040,3420 2032,3424" stroke="rgb(0,0,0)" />
+  <path d="M 580 3487 L 2040 3487" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="588,3483 580,3487 588,3491" stroke="rgb(0,0,0)" />
+  <path d="M 396 3567 L 504 3567" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="404,3563 396,3567 404,3571" stroke="rgb(0,0,0)" />
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="164" x="226.0" y="140">Sélectionner la langue (fr/en)</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="89" x="380.5" y="214">Changer langue</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="111" x="583.5" y="281">Appliquer la langue</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="105" x="639.5" y="348">Langue configurée</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="167" x="416.5" y="415">Confirmer changement de lan</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="21" x="489.5" y="430">gue</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="166" x="227.0" y="496">Activer/désactiver chiffremen</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="5" x="146.5" y="509">t</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="144" x="216.0" y="574">Définir clé de chiffrement</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="157" x="222.5" y="646">Définir extensions à chiffrer</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="130" x="417.0" y="719">Configurer chiffrement</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="180" x="626.0" y="786">Stocker paramètres chiffrement</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="150" x="987.0" y="853">Sauvegarder configuration</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="140" x="814.0" y="920">Confirmation mise à jour</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="121" x="439.5" y="985">Confirmation affichée</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="70" x="179.0" y="1052">Créer un job</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="80" x="400.0" y="1119">Ajouter un job</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="128" x="608.0" y="1186">Créer et ajouter un job</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="106" x="1215.0" y="1253">Confirmation ajout</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="128" x="436.0" y="1320">Affichage confirmation</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="98" x="193.0" y="1387">Supprimer un job</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="129" x="432.5" y="1454">Demander suppression</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="94" x="599.0" y="1521">Supprimer le job</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="144" x="1196.0" y="1588">Confirmation suppression</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="128" x="436.0" y="1655">Affichage confirmation</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="86" x="187.0" y="1722">Modifier un job</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="95" x="423.5" y="1789">Mettre à jour job</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="156" x="638.0" y="1856">Modifier et sauvegarder job</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="140" x="1198.0" y="1923">Confirmation mise à jour</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="128" x="436.0" y="1990">Affichage confirmation</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="166" x="227.0" y="2064">Exécuter un ou plusieurs jobs</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="152" x="460.0" y="2137">Récupérer et exécuter jobs</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="97" x="616.5" y="2204">Sélectionner jobs</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="85" x="1350.5" y="2271">Lancer les jobs</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="165" x="1570.5" y="2336">Vérifier si chiffrement nécess</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="22" x="1499.0" y="2349">aire</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="178" x="1563.0" y="2414">Vérifier activation et extensions</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="127" x="1743.5" y="2479">Demander chiffrement</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="103" x="1792.5" y="2544">Statut chiffrement</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="180" x="1578.0" y="2611">Mettre à jour état en temps réel</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="120" x="1400.0" y="2678">Sauvegarde terminée</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="128" x="436.0" y="2745">Affichage confirmation</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="166" x="227.0" y="2810">Déchiffrer un fichier ou un do</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="27" x="157.5" y="2823">ssier</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="152" x="468.0" y="2888">Demande de déchiffrement</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="146" x="649.0" y="2953">Vérifier si fichiers chiffrés</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="141" x="1758.5" y="3018">Demander déchiffrement</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="117" x="1785.5" y="3083">Statut déchiffrement</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="127" x="1588.5" y="3148">Déchiffrement terminé</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="128" x="436.0" y="3215">Affichage confirmation</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="152" x="220.0" y="3282">Afficher logs en temps réel</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="102" x="451.0" y="3349">Demande des logs</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="152" x="660.0" y="3416">Récupérer état sauvegarde</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="158" x="1957.0" y="3483">Retourne état en temps réel</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="159" x="420.5" y="3557">Affichage état en temps réel</text>
+</svg>

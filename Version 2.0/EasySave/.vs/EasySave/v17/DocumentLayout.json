@@ -1,0 +1,387 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B756D19-32F1-4EF0-A6CB-70EADE94B3E4}|EasySave.Core\\EasySave.Core.csproj|c:\\users\\alexa\\desktop\\cours 24-25\\projet_genie_logiciel\\easysave\\easysave.core\\services\\complete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B756D19-32F1-4EF0-A6CB-70EADE94B3E4}|EasySave.Core\\EasySave.Core.csproj|solutionrelative:easysave.core\\services\\complete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B756D19-32F1-4EF0-A6CB-70EADE94B3E4}|EasySave.Core\\EasySave.Core.csproj|c:\\users\\alexa\\desktop\\cours 24-25\\projet_genie_logiciel\\easysave\\easysave.core\\services\\cryptosoftservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B756D19-32F1-4EF0-A6CB-70EADE94B3E4}|EasySave.Core\\EasySave.Core.csproj|solutionrelative:easysave.core\\services\\cryptosoftservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52BDF8C2-4660-4C70-88FB-EBBDB8CB6967}|EasySave.Desktop\\EasySave.Desktop.csproj|c:\\users\\alexa\\desktop\\cours 24-25\\projet_genie_logiciel\\easysave\\easysave.desktop\\viewmodels\\homepageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52BDF8C2-4660-4C70-88FB-EBBDB8CB6967}|EasySave.Desktop\\EasySave.Desktop.csproj|solutionrelative:easysave.desktop\\viewmodels\\homepageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B756D19-32F1-4EF0-A6CB-70EADE94B3E4}|EasySave.Core\\EasySave.Core.csproj|c:\\users\\alexa\\desktop\\cours 24-25\\projet_genie_logiciel\\easysave\\easysave.core\\services\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B756D19-32F1-4EF0-A6CB-70EADE94B3E4}|EasySave.Core\\EasySave.Core.csproj|solutionrelative:easysave.core\\services\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B756D19-32F1-4EF0-A6CB-70EADE94B3E4}|EasySave.Core\\EasySave.Core.csproj|c:\\users\\alexa\\desktop\\cours 24-25\\projet_genie_logiciel\\easysave\\easysave.core\\services\\realtimelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B756D19-32F1-4EF0-A6CB-70EADE94B3E4}|EasySave.Core\\EasySave.Core.csproj|solutionrelative:easysave.core\\services\\realtimelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B756D19-32F1-4EF0-A6CB-70EADE94B3E4}|EasySave.Core\\EasySave.Core.csproj|c:\\users\\alexa\\desktop\\cours 24-25\\projet_genie_logiciel\\easysave\\easysave.core\\services\\languagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B756D19-32F1-4EF0-A6CB-70EADE94B3E4}|EasySave.Core\\EasySave.Core.csproj|solutionrelative:easysave.core\\services\\languagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B756D19-32F1-4EF0-A6CB-70EADE94B3E4}|EasySave.Core\\EasySave.Core.csproj|c:\\users\\alexa\\desktop\\cours 24-25\\projet_genie_logiciel\\easysave\\easysave.core\\services\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B756D19-32F1-4EF0-A6CB-70EADE94B3E4}|EasySave.Core\\EasySave.Core.csproj|solutionrelative:easysave.core\\services\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B756D19-32F1-4EF0-A6CB-70EADE94B3E4}|EasySave.Core\\EasySave.Core.csproj|c:\\users\\alexa\\desktop\\cours 24-25\\projet_genie_logiciel\\easysave\\easysave.core\\services\\jobfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B756D19-32F1-4EF0-A6CB-70EADE94B3E4}|EasySave.Core\\EasySave.Core.csproj|solutionrelative:easysave.core\\services\\jobfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B756D19-32F1-4EF0-A6CB-70EADE94B3E4}|EasySave.Core\\EasySave.Core.csproj|c:\\users\\alexa\\desktop\\cours 24-25\\projet_genie_logiciel\\easysave\\easysave.core\\services\\isave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B756D19-32F1-4EF0-A6CB-70EADE94B3E4}|EasySave.Core\\EasySave.Core.csproj|solutionrelative:easysave.core\\services\\isave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B756D19-32F1-4EF0-A6CB-70EADE94B3E4}|EasySave.Core\\EasySave.Core.csproj|c:\\users\\alexa\\desktop\\cours 24-25\\projet_genie_logiciel\\easysave\\easysave.core\\services\\differential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B756D19-32F1-4EF0-A6CB-70EADE94B3E4}|EasySave.Core\\EasySave.Core.csproj|solutionrelative:easysave.core\\services\\differential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52BDF8C2-4660-4C70-88FB-EBBDB8CB6967}|EasySave.Desktop\\EasySave.Desktop.csproj|c:\\users\\alexa\\desktop\\cours 24-25\\projet_genie_logiciel\\easysave\\easysave.desktop\\views\\modifypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52BDF8C2-4660-4C70-88FB-EBBDB8CB6967}|EasySave.Desktop\\EasySave.Desktop.csproj|solutionrelative:easysave.desktop\\views\\modifypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52BDF8C2-4660-4C70-88FB-EBBDB8CB6967}|EasySave.Desktop\\EasySave.Desktop.csproj|c:\\users\\alexa\\desktop\\cours 24-25\\projet_genie_logiciel\\easysave\\easysave.desktop\\views\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52BDF8C2-4660-4C70-88FB-EBBDB8CB6967}|EasySave.Desktop\\EasySave.Desktop.csproj|solutionrelative:easysave.desktop\\views\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52BDF8C2-4660-4C70-88FB-EBBDB8CB6967}|EasySave.Desktop\\EasySave.Desktop.csproj|c:\\users\\alexa\\desktop\\cours 24-25\\projet_genie_logiciel\\easysave\\easysave.desktop\\views\\addjobpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52BDF8C2-4660-4C70-88FB-EBBDB8CB6967}|EasySave.Desktop\\EasySave.Desktop.csproj|solutionrelative:easysave.desktop\\views\\addjobpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52BDF8C2-4660-4C70-88FB-EBBDB8CB6967}|EasySave.Desktop\\EasySave.Desktop.csproj|c:\\users\\alexa\\desktop\\cours 24-25\\projet_genie_logiciel\\easysave\\easysave.desktop\\views\\addjobpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{52BDF8C2-4660-4C70-88FB-EBBDB8CB6967}|EasySave.Desktop\\EasySave.Desktop.csproj|solutionrelative:easysave.desktop\\views\\addjobpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52BDF8C2-4660-4C70-88FB-EBBDB8CB6967}|EasySave.Desktop\\EasySave.Desktop.csproj|c:\\users\\alexa\\desktop\\cours 24-25\\projet_genie_logiciel\\easysave\\easysave.desktop\\viewmodels\\addjobviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52BDF8C2-4660-4C70-88FB-EBBDB8CB6967}|EasySave.Desktop\\EasySave.Desktop.csproj|solutionrelative:easysave.desktop\\viewmodels\\addjobviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52BDF8C2-4660-4C70-88FB-EBBDB8CB6967}|EasySave.Desktop\\EasySave.Desktop.csproj|c:\\users\\alexa\\desktop\\cours 24-25\\projet_genie_logiciel\\easysave\\easysave.desktop\\viewmodels\\modifyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52BDF8C2-4660-4C70-88FB-EBBDB8CB6967}|EasySave.Desktop\\EasySave.Desktop.csproj|solutionrelative:easysave.desktop\\viewmodels\\modifyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52BDF8C2-4660-4C70-88FB-EBBDB8CB6967}|EasySave.Desktop\\EasySave.Desktop.csproj|c:\\users\\alexa\\desktop\\cours 24-25\\projet_genie_logiciel\\easysave\\easysave.desktop\\views\\modifypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{52BDF8C2-4660-4C70-88FB-EBBDB8CB6967}|EasySave.Desktop\\EasySave.Desktop.csproj|solutionrelative:easysave.desktop\\views\\modifypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52BDF8C2-4660-4C70-88FB-EBBDB8CB6967}|EasySave.Desktop\\EasySave.Desktop.csproj|c:\\users\\alexa\\desktop\\cours 24-25\\projet_genie_logiciel\\easysave\\easysave.desktop\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{52BDF8C2-4660-4C70-88FB-EBBDB8CB6967}|EasySave.Desktop\\EasySave.Desktop.csproj|solutionrelative:easysave.desktop\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63169CC-8F35-409D-878D-D4EA99870417}|EasySave.Command\\EasySave.Command.csproj|c:\\users\\alexa\\desktop\\cours 24-25\\projet_genie_logiciel\\easysave\\easysave.command\\viewmodels\\jobviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D63169CC-8F35-409D-878D-D4EA99870417}|EasySave.Command\\EasySave.Command.csproj|solutionrelative:easysave.command\\viewmodels\\jobviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63169CC-8F35-409D-878D-D4EA99870417}|EasySave.Command\\EasySave.Command.csproj|c:\\users\\alexa\\desktop\\cours 24-25\\projet_genie_logiciel\\easysave\\easysave.command\\views\\consoleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D63169CC-8F35-409D-878D-D4EA99870417}|EasySave.Command\\EasySave.Command.csproj|solutionrelative:easysave.command\\views\\consoleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E8B84F-6662-4B83-B4DC-1C8B30ED1507}|CryptoSoft\\CryptoSoft.csproj|C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\cryptosoft\\cryptosoft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E8B84F-6662-4B83-B4DC-1C8B30ED1507}|CryptoSoft\\CryptoSoft.csproj|solutionrelative:cryptosoft\\cryptosoft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52BDF8C2-4660-4C70-88FB-EBBDB8CB6967}|EasySave.Desktop\\EasySave.Desktop.csproj|c:\\users\\alexa\\desktop\\cours 24-25\\projet_genie_logiciel\\easysave\\easysave.desktop\\utils\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52BDF8C2-4660-4C70-88FB-EBBDB8CB6967}|EasySave.Desktop\\EasySave.Desktop.csproj|solutionrelative:easysave.desktop\\utils\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 146,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Complete.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Core\\Services\\Complete.cs",
+              "RelativeDocumentMoniker": "EasySave.Core\\Services\\Complete.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Core\\Services\\Complete.cs",
+              "RelativeToolTip": "EasySave.Core\\Services\\Complete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T17:56:12.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Differential.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Core\\Services\\Differential.cs",
+              "RelativeDocumentMoniker": "EasySave.Core\\Services\\Differential.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Core\\Services\\Differential.cs",
+              "RelativeToolTip": "EasySave.Core\\Services\\Differential.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwEsAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:48:56.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISave.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Core\\Services\\ISave.cs",
+              "RelativeDocumentMoniker": "EasySave.Core\\Services\\ISave.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Core\\Services\\ISave.cs",
+              "RelativeToolTip": "EasySave.Core\\Services\\ISave.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T17:59:45.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobFactory.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Core\\Services\\JobFactory.cs",
+              "RelativeDocumentMoniker": "EasySave.Core\\Services\\JobFactory.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Core\\Services\\JobFactory.cs",
+              "RelativeToolTip": "EasySave.Core\\Services\\JobFactory.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T17:59:42.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LanguageManager.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Core\\Services\\LanguageManager.cs",
+              "RelativeDocumentMoniker": "EasySave.Core\\Services\\LanguageManager.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Core\\Services\\LanguageManager.cs",
+              "RelativeToolTip": "EasySave.Core\\Services\\LanguageManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T17:59:25.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RealTimeLogger.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Core\\Services\\RealTimeLogger.cs",
+              "RelativeDocumentMoniker": "EasySave.Core\\Services\\RealTimeLogger.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Core\\Services\\RealTimeLogger.cs",
+              "RelativeToolTip": "EasySave.Core\\Services\\RealTimeLogger.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T17:59:16.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SaveManager.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Core\\Services\\SaveManager.cs",
+              "RelativeDocumentMoniker": "EasySave.Core\\Services\\SaveManager.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Core\\Services\\SaveManager.cs",
+              "RelativeToolTip": "EasySave.Core\\Services\\SaveManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T17:58:25.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CryptoSoftServices.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Core\\Services\\CryptoSoftServices.cs",
+              "RelativeDocumentMoniker": "EasySave.Core\\Services\\CryptoSoftServices.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Core\\Services\\CryptoSoftServices.cs",
+              "RelativeToolTip": "EasySave.Core\\Services\\CryptoSoftServices.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA4wAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T17:03:47.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomePageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Desktop\\ViewModels\\HomePageViewModel.cs",
+              "RelativeDocumentMoniker": "EasySave.Desktop\\ViewModels\\HomePageViewModel.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Desktop\\ViewModels\\HomePageViewModel.cs",
+              "RelativeToolTip": "EasySave.Desktop\\ViewModels\\HomePageViewModel.cs",
+              "ViewState": "AgIAAPcAAAAAAAAAAAAmwOgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T17:20:55.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Desktop\\Views\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "EasySave.Desktop\\Views\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Desktop\\Views\\HomePage.xaml.cs",
+              "RelativeToolTip": "EasySave.Desktop\\Views\\HomePage.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T17:57:32.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddJobPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Desktop\\Views\\AddJobPage.xaml.cs",
+              "RelativeDocumentMoniker": "EasySave.Desktop\\Views\\AddJobPage.xaml.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Desktop\\Views\\AddJobPage.xaml.cs",
+              "RelativeToolTip": "EasySave.Desktop\\Views\\AddJobPage.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:07:44.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ModifyPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Desktop\\Views\\ModifyPage.xaml.cs",
+              "RelativeDocumentMoniker": "EasySave.Desktop\\Views\\ModifyPage.xaml.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Desktop\\Views\\ModifyPage.xaml.cs",
+              "RelativeToolTip": "EasySave.Desktop\\Views\\ModifyPage.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T22:12:14.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JobManager.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Core\\Services\\JobManager.cs",
+              "RelativeDocumentMoniker": "EasySave.Core\\Services\\JobManager.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Core\\Services\\JobManager.cs",
+              "RelativeToolTip": "EasySave.Core\\Services\\JobManager.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAcwL4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T19:06:37.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddJobPage.xaml",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Desktop\\Views\\AddJobPage.xaml",
+              "RelativeDocumentMoniker": "EasySave.Desktop\\Views\\AddJobPage.xaml",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Desktop\\Views\\AddJobPage.xaml",
+              "RelativeToolTip": "EasySave.Desktop\\Views\\AddJobPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-15T17:07:38.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddJobViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Desktop\\ViewModels\\AddJobViewModel.cs",
+              "RelativeDocumentMoniker": "EasySave.Desktop\\ViewModels\\AddJobViewModel.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Desktop\\ViewModels\\AddJobViewModel.cs",
+              "RelativeToolTip": "EasySave.Desktop\\ViewModels\\AddJobViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T11:59:24.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Desktop\\Views\\HomePage.xaml",
+              "RelativeDocumentMoniker": "EasySave.Desktop\\Views\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Desktop\\Views\\HomePage.xaml",
+              "RelativeToolTip": "EasySave.Desktop\\Views\\HomePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-16T13:07:21.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ModifyViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Desktop\\ViewModels\\ModifyViewModel.cs",
+              "RelativeDocumentMoniker": "EasySave.Desktop\\ViewModels\\ModifyViewModel.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Desktop\\ViewModels\\ModifyViewModel.cs",
+              "RelativeToolTip": "EasySave.Desktop\\ViewModels\\ModifyViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T17:55:34.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ConsoleView.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Command\\Views\\ConsoleView.cs",
+              "RelativeDocumentMoniker": "EasySave.Command\\Views\\ConsoleView.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Command\\Views\\ConsoleView.cs",
+              "RelativeToolTip": "EasySave.Command\\Views\\ConsoleView.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T17:55:53.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ModifyPage.xaml",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Desktop\\Views\\ModifyPage.xaml",
+              "RelativeDocumentMoniker": "EasySave.Desktop\\Views\\ModifyPage.xaml",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Desktop\\Views\\ModifyPage.xaml",
+              "RelativeToolTip": "EasySave.Desktop\\Views\\ModifyPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-16T10:33:46.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JobViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Command\\ViewModels\\JobViewModel.cs",
+              "RelativeDocumentMoniker": "EasySave.Command\\ViewModels\\JobViewModel.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Command\\ViewModels\\JobViewModel.cs",
+              "RelativeToolTip": "EasySave.Command\\ViewModels\\JobViewModel.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T17:56:02.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Desktop\\Utils\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "EasySave.Desktop\\Utils\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Desktop\\Utils\\RelayCommand.cs",
+              "RelativeToolTip": "EasySave.Desktop\\Utils\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T11:48:24.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CryptoSoft.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\CryptoSoft\\CryptoSoft.cs",
+              "RelativeDocumentMoniker": "CryptoSoft\\CryptoSoft.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\CryptoSoft\\CryptoSoft.cs",
+              "RelativeToolTip": "CryptoSoft\\CryptoSoft.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T17:11:16.609Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

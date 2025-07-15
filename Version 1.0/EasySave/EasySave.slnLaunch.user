@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Nouveau profil",
+    "Projects": [
+      {
+        "Path": "EasySave.Core\\EasySave.Core.csproj",
+        "Action": "Start",
+        "DebugTarget": "EasySave.Core"
+      },
+      {
+        "Path": "EasySave.Command\\EasySave.Command.csproj",
+        "Action": "Start",
+        "DebugTarget": "EasySave.Command"
+      }
+    ]
+  }
+]

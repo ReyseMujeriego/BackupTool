@@ -1,0 +1,437 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B756D19-32F1-4EF0-A6CB-70EADE94B3E4}|EasySave.Core\\EasySave.Core.csproj|c:\\users\\pauli\\source\\repos\\projet_genie_logiciel\\projet_genie_logiciel\\version 3.0\\easysave\\easysave.core\\services\\complete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B756D19-32F1-4EF0-A6CB-70EADE94B3E4}|EasySave.Core\\EasySave.Core.csproj|solutionrelative:easysave.core\\services\\complete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B756D19-32F1-4EF0-A6CB-70EADE94B3E4}|EasySave.Core\\EasySave.Core.csproj|c:\\users\\pauli\\source\\repos\\projet_genie_logiciel\\projet_genie_logiciel\\version 3.0\\easysave\\easysave.core\\services\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B756D19-32F1-4EF0-A6CB-70EADE94B3E4}|EasySave.Core\\EasySave.Core.csproj|solutionrelative:easysave.core\\services\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B756D19-32F1-4EF0-A6CB-70EADE94B3E4}|EasySave.Core\\EasySave.Core.csproj|c:\\users\\pauli\\source\\repos\\projet_genie_logiciel\\projet_genie_logiciel\\version 3.0\\easysave\\easysave.core\\services\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B756D19-32F1-4EF0-A6CB-70EADE94B3E4}|EasySave.Core\\EasySave.Core.csproj|solutionrelative:easysave.core\\services\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CFB8E7-10C3-4D0D-9EF2-A570F710B2EB}|RemoteConsole\\EasySave.RemoteConsole.csproj|c:\\users\\pauli\\source\\repos\\projet_genie_logiciel\\projet_genie_logiciel\\version 3.0\\easysave\\remoteconsole\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CFB8E7-10C3-4D0D-9EF2-A570F710B2EB}|RemoteConsole\\EasySave.RemoteConsole.csproj|solutionrelative:remoteconsole\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CFB8E7-10C3-4D0D-9EF2-A570F710B2EB}|RemoteConsole\\EasySave.RemoteConsole.csproj|c:\\users\\pauli\\source\\repos\\projet_genie_logiciel\\projet_genie_logiciel\\version 3.0\\easysave\\remoteconsole\\services\\remoteclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CFB8E7-10C3-4D0D-9EF2-A570F710B2EB}|RemoteConsole\\EasySave.RemoteConsole.csproj|solutionrelative:remoteconsole\\services\\remoteclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B756D19-32F1-4EF0-A6CB-70EADE94B3E4}|EasySave.Core\\EasySave.Core.csproj|c:\\users\\pauli\\source\\repos\\projet_genie_logiciel\\projet_genie_logiciel\\version 3.0\\easysave\\easysave.core\\services\\remoteconsoleserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B756D19-32F1-4EF0-A6CB-70EADE94B3E4}|EasySave.Core\\EasySave.Core.csproj|solutionrelative:easysave.core\\services\\remoteconsoleserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52BDF8C2-4660-4C70-88FB-EBBDB8CB6967}|EasySave.Desktop\\EasySave.Desktop.csproj|c:\\users\\pauli\\source\\repos\\projet_genie_logiciel\\projet_genie_logiciel\\version 3.0\\easysave\\easysave.desktop\\viewmodels\\modifyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52BDF8C2-4660-4C70-88FB-EBBDB8CB6967}|EasySave.Desktop\\EasySave.Desktop.csproj|solutionrelative:easysave.desktop\\viewmodels\\modifyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B756D19-32F1-4EF0-A6CB-70EADE94B3E4}|EasySave.Core\\EasySave.Core.csproj|c:\\users\\pauli\\source\\repos\\projet_genie_logiciel\\projet_genie_logiciel\\version 3.0\\easysave\\easysave.core\\services\\clientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B756D19-32F1-4EF0-A6CB-70EADE94B3E4}|EasySave.Core\\EasySave.Core.csproj|solutionrelative:easysave.core\\services\\clientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CFB8E7-10C3-4D0D-9EF2-A570F710B2EB}|RemoteConsole\\EasySave.RemoteConsole.csproj|c:\\users\\pauli\\source\\repos\\projet_genie_logiciel\\projet_genie_logiciel\\version 3.0\\easysave\\remoteconsole\\easysave.remoteconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D0CFB8E7-10C3-4D0D-9EF2-A570F710B2EB}|RemoteConsole\\EasySave.RemoteConsole.csproj|solutionrelative:remoteconsole\\easysave.remoteconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52BDF8C2-4660-4C70-88FB-EBBDB8CB6967}|EasySave.Desktop\\EasySave.Desktop.csproj|c:\\users\\pauli\\source\\repos\\projet_genie_logiciel\\projet_genie_logiciel\\version 3.0\\easysave\\easysave.desktop\\viewmodels\\homepageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52BDF8C2-4660-4C70-88FB-EBBDB8CB6967}|EasySave.Desktop\\EasySave.Desktop.csproj|solutionrelative:easysave.desktop\\viewmodels\\homepageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52BDF8C2-4660-4C70-88FB-EBBDB8CB6967}|EasySave.Desktop\\EasySave.Desktop.csproj|c:\\users\\pauli\\source\\repos\\projet_genie_logiciel\\projet_genie_logiciel\\version 3.0\\easysave\\easysave.desktop\\viewmodels\\backupconfigviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52BDF8C2-4660-4C70-88FB-EBBDB8CB6967}|EasySave.Desktop\\EasySave.Desktop.csproj|solutionrelative:easysave.desktop\\viewmodels\\backupconfigviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CFB8E7-10C3-4D0D-9EF2-A570F710B2EB}|RemoteConsole\\EasySave.RemoteConsole.csproj|c:\\users\\pauli\\source\\repos\\projet_genie_logiciel\\projet_genie_logiciel\\version 3.0\\easysave\\remoteconsole\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D0CFB8E7-10C3-4D0D-9EF2-A570F710B2EB}|RemoteConsole\\EasySave.RemoteConsole.csproj|solutionrelative:remoteconsole\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B756D19-32F1-4EF0-A6CB-70EADE94B3E4}|EasySave.Core\\EasySave.Core.csproj|c:\\users\\pauli\\source\\repos\\projet_genie_logiciel\\projet_genie_logiciel\\version 3.0\\easysave\\easysave.core\\services\\listener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B756D19-32F1-4EF0-A6CB-70EADE94B3E4}|EasySave.Core\\EasySave.Core.csproj|solutionrelative:easysave.core\\services\\listener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B756D19-32F1-4EF0-A6CB-70EADE94B3E4}|EasySave.Core\\EasySave.Core.csproj|c:\\users\\pauli\\source\\repos\\projet_genie_logiciel\\projet_genie_logiciel\\version 3.0\\easysave\\easysave.core\\services\\cryptosoftservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B756D19-32F1-4EF0-A6CB-70EADE94B3E4}|EasySave.Core\\EasySave.Core.csproj|solutionrelative:easysave.core\\services\\cryptosoftservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B756D19-32F1-4EF0-A6CB-70EADE94B3E4}|EasySave.Core\\EasySave.Core.csproj|c:\\users\\pauli\\source\\repos\\projet_genie_logiciel\\projet_genie_logiciel\\version 3.0\\easysave\\easysave.core\\services\\differential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B756D19-32F1-4EF0-A6CB-70EADE94B3E4}|EasySave.Core\\EasySave.Core.csproj|solutionrelative:easysave.core\\services\\differential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B756D19-32F1-4EF0-A6CB-70EADE94B3E4}|EasySave.Core\\EasySave.Core.csproj|c:\\users\\pauli\\source\\repos\\projet_genie_logiciel\\projet_genie_logiciel\\version 3.0\\easysave\\easysave.core\\services\\isave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B756D19-32F1-4EF0-A6CB-70EADE94B3E4}|EasySave.Core\\EasySave.Core.csproj|solutionrelative:easysave.core\\services\\isave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52BDF8C2-4660-4C70-88FB-EBBDB8CB6967}|EasySave.Desktop\\EasySave.Desktop.csproj|c:\\users\\pauli\\source\\repos\\projet_genie_logiciel\\projet_genie_logiciel\\version 3.0\\easysave\\easysave.desktop\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{52BDF8C2-4660-4C70-88FB-EBBDB8CB6967}|EasySave.Desktop\\EasySave.Desktop.csproj|solutionrelative:easysave.desktop\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52BDF8C2-4660-4C70-88FB-EBBDB8CB6967}|EasySave.Desktop\\EasySave.Desktop.csproj|c:\\users\\pauli\\source\\repos\\projet_genie_logiciel\\projet_genie_logiciel\\version 3.0\\easysave\\easysave.desktop\\views\\backupconfigpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{52BDF8C2-4660-4C70-88FB-EBBDB8CB6967}|EasySave.Desktop\\EasySave.Desktop.csproj|solutionrelative:easysave.desktop\\views\\backupconfigpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52BDF8C2-4660-4C70-88FB-EBBDB8CB6967}|EasySave.Desktop\\EasySave.Desktop.csproj|c:\\users\\pauli\\source\\repos\\projet_genie_logiciel\\projet_genie_logiciel\\version 3.0\\easysave\\easysave.desktop\\views\\modifypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{52BDF8C2-4660-4C70-88FB-EBBDB8CB6967}|EasySave.Desktop\\EasySave.Desktop.csproj|solutionrelative:easysave.desktop\\views\\modifypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52BDF8C2-4660-4C70-88FB-EBBDB8CB6967}|EasySave.Desktop\\EasySave.Desktop.csproj|c:\\users\\pauli\\source\\repos\\projet_genie_logiciel\\projet_genie_logiciel\\version 3.0\\easysave\\easysave.desktop\\views\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52BDF8C2-4660-4C70-88FB-EBBDB8CB6967}|EasySave.Desktop\\EasySave.Desktop.csproj|solutionrelative:easysave.desktop\\views\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52BDF8C2-4660-4C70-88FB-EBBDB8CB6967}|EasySave.Desktop\\EasySave.Desktop.csproj|c:\\users\\pauli\\source\\repos\\projet_genie_logiciel\\projet_genie_logiciel\\version 3.0\\easysave\\easysave.desktop\\views\\modifypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52BDF8C2-4660-4C70-88FB-EBBDB8CB6967}|EasySave.Desktop\\EasySave.Desktop.csproj|solutionrelative:easysave.desktop\\views\\modifypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52BDF8C2-4660-4C70-88FB-EBBDB8CB6967}|EasySave.Desktop\\EasySave.Desktop.csproj|c:\\users\\pauli\\source\\repos\\projet_genie_logiciel\\projet_genie_logiciel\\version 3.0\\easysave\\easysave.desktop\\views\\addjobpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52BDF8C2-4660-4C70-88FB-EBBDB8CB6967}|EasySave.Desktop\\EasySave.Desktop.csproj|solutionrelative:easysave.desktop\\views\\addjobpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52BDF8C2-4660-4C70-88FB-EBBDB8CB6967}|EasySave.Desktop\\EasySave.Desktop.csproj|c:\\users\\pauli\\source\\repos\\projet_genie_logiciel\\projet_genie_logiciel\\version 3.0\\easysave\\easysave.desktop\\views\\addjobpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{52BDF8C2-4660-4C70-88FB-EBBDB8CB6967}|EasySave.Desktop\\EasySave.Desktop.csproj|solutionrelative:easysave.desktop\\views\\addjobpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63169CC-8F35-409D-878D-D4EA99870417}|EasySave.Command\\EasySave.Command.csproj|c:\\users\\pauli\\source\\repos\\projet_genie_logiciel\\projet_genie_logiciel\\version 3.0\\easysave\\easysave.command\\viewmodels\\jobviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D63169CC-8F35-409D-878D-D4EA99870417}|EasySave.Command\\EasySave.Command.csproj|solutionrelative:easysave.command\\viewmodels\\jobviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 110,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Complete.cs",
+              "DocumentMoniker": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\EasySave.Core\\Services\\Complete.cs",
+              "RelativeDocumentMoniker": "EasySave.Core\\Services\\Complete.cs",
+              "ToolTip": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\EasySave.Core\\Services\\Complete.cs*",
+              "RelativeToolTip": "EasySave.Core\\Services\\Complete.cs*",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAQwIsAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:56:01.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\RemoteConsole\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "RemoteConsole\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\RemoteConsole\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "RemoteConsole\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwEAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:50:49.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BackupConfigViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\EasySave.Desktop\\ViewModels\\BackupConfigViewModel.cs",
+              "RelativeDocumentMoniker": "EasySave.Desktop\\ViewModels\\BackupConfigViewModel.cs",
+              "ToolTip": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\EasySave.Desktop\\ViewModels\\BackupConfigViewModel.cs",
+              "RelativeToolTip": "EasySave.Desktop\\ViewModels\\BackupConfigViewModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:14:48.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SaveManager.cs",
+              "DocumentMoniker": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\EasySave.Core\\Services\\SaveManager.cs",
+              "RelativeDocumentMoniker": "EasySave.Core\\Services\\SaveManager.cs",
+              "ToolTip": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\EasySave.Core\\Services\\SaveManager.cs",
+              "RelativeToolTip": "EasySave.Core\\Services\\SaveManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:42:40.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ModifyViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\EasySave.Desktop\\ViewModels\\ModifyViewModel.cs",
+              "RelativeDocumentMoniker": "EasySave.Desktop\\ViewModels\\ModifyViewModel.cs",
+              "ToolTip": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\EasySave.Desktop\\ViewModels\\ModifyViewModel.cs",
+              "RelativeToolTip": "EasySave.Desktop\\ViewModels\\ModifyViewModel.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:21:39.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RemoteConsoleServer.cs",
+              "DocumentMoniker": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\EasySave.Core\\Services\\RemoteConsoleServer.cs",
+              "RelativeDocumentMoniker": "EasySave.Core\\Services\\RemoteConsoleServer.cs",
+              "ToolTip": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\EasySave.Core\\Services\\RemoteConsoleServer.cs",
+              "RelativeToolTip": "EasySave.Core\\Services\\RemoteConsoleServer.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwDgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:40:15.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobManager.cs",
+              "DocumentMoniker": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\EasySave.Core\\Services\\JobManager.cs",
+              "RelativeDocumentMoniker": "EasySave.Core\\Services\\JobManager.cs",
+              "ToolTip": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\EasySave.Core\\Services\\JobManager.cs",
+              "RelativeToolTip": "EasySave.Core\\Services\\JobManager.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAhwPUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:51:16.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RemoteClient.cs",
+              "DocumentMoniker": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\RemoteConsole\\Services\\RemoteClient.cs",
+              "RelativeDocumentMoniker": "RemoteConsole\\Services\\RemoteClient.cs",
+              "ToolTip": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\RemoteConsole\\Services\\RemoteClient.cs",
+              "RelativeToolTip": "RemoteConsole\\Services\\RemoteClient.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAlwBgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:46:12.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientManager.cs",
+              "DocumentMoniker": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\EasySave.Core\\Services\\ClientManager.cs",
+              "RelativeDocumentMoniker": "EasySave.Core\\Services\\ClientManager.cs",
+              "ToolTip": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\EasySave.Core\\Services\\ClientManager.cs",
+              "RelativeToolTip": "EasySave.Core\\Services\\ClientManager.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAhwB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:21:04.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EasySave.RemoteConsole.csproj",
+              "DocumentMoniker": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\RemoteConsole\\EasySave.RemoteConsole.csproj",
+              "RelativeDocumentMoniker": "RemoteConsole\\EasySave.RemoteConsole.csproj",
+              "ToolTip": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\RemoteConsole\\EasySave.RemoteConsole.csproj",
+              "RelativeToolTip": "RemoteConsole\\EasySave.RemoteConsole.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-27T20:20:31.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomePageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\EasySave.Desktop\\ViewModels\\HomePageViewModel.cs",
+              "RelativeDocumentMoniker": "EasySave.Desktop\\ViewModels\\HomePageViewModel.cs",
+              "ToolTip": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\EasySave.Desktop\\ViewModels\\HomePageViewModel.cs",
+              "RelativeToolTip": "EasySave.Desktop\\ViewModels\\HomePageViewModel.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAmwFAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:25:37.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\RemoteConsole\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "RemoteConsole\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\RemoteConsole\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "RemoteConsole\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-27T20:20:43.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Listener.cs",
+              "DocumentMoniker": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\EasySave.Core\\Services\\Listener.cs",
+              "RelativeDocumentMoniker": "EasySave.Core\\Services\\Listener.cs",
+              "ToolTip": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\EasySave.Core\\Services\\Listener.cs",
+              "RelativeToolTip": "EasySave.Core\\Services\\Listener.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:39:52.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CryptoSoftServices.cs",
+              "DocumentMoniker": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\EasySave.Core\\Services\\CryptoSoftServices.cs",
+              "RelativeDocumentMoniker": "EasySave.Core\\Services\\CryptoSoftServices.cs",
+              "ToolTip": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\EasySave.Core\\Services\\CryptoSoftServices.cs",
+              "RelativeToolTip": "EasySave.Core\\Services\\CryptoSoftServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:57:16.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Differential.cs",
+              "DocumentMoniker": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\EasySave.Core\\Services\\Differential.cs",
+              "RelativeDocumentMoniker": "EasySave.Core\\Services\\Differential.cs",
+              "ToolTip": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\EasySave.Core\\Services\\Differential.cs",
+              "RelativeToolTip": "EasySave.Core\\Services\\Differential.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:56:12.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ISave.cs",
+              "DocumentMoniker": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\EasySave.Core\\Services\\ISave.cs",
+              "RelativeDocumentMoniker": "EasySave.Core\\Services\\ISave.cs",
+              "ToolTip": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\EasySave.Core\\Services\\ISave.cs",
+              "RelativeToolTip": "EasySave.Core\\Services\\ISave.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:52:46.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\EasySave.Desktop\\Views\\HomePage.xaml",
+              "RelativeDocumentMoniker": "EasySave.Desktop\\Views\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\EasySave.Desktop\\Views\\HomePage.xaml",
+              "RelativeToolTip": "EasySave.Desktop\\Views\\HomePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-25T17:43:33.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BackupConfigPage.xaml",
+              "DocumentMoniker": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\EasySave.Desktop\\Views\\BackupConfigPage.xaml",
+              "RelativeDocumentMoniker": "EasySave.Desktop\\Views\\BackupConfigPage.xaml",
+              "ToolTip": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\EasySave.Desktop\\Views\\BackupConfigPage.xaml",
+              "RelativeToolTip": "EasySave.Desktop\\Views\\BackupConfigPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-27T17:06:15.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ModifyPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\EasySave.Desktop\\Views\\ModifyPage.xaml.cs",
+              "RelativeDocumentMoniker": "EasySave.Desktop\\Views\\ModifyPage.xaml.cs",
+              "ToolTip": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\EasySave.Desktop\\Views\\ModifyPage.xaml.cs",
+              "RelativeToolTip": "EasySave.Desktop\\Views\\ModifyPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:19:33.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddJobPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\EasySave.Desktop\\Views\\AddJobPage.xaml.cs",
+              "RelativeDocumentMoniker": "EasySave.Desktop\\Views\\AddJobPage.xaml.cs",
+              "ToolTip": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\EasySave.Desktop\\Views\\AddJobPage.xaml.cs",
+              "RelativeToolTip": "EasySave.Desktop\\Views\\AddJobPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:19:27.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddJobPage.xaml",
+              "DocumentMoniker": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\EasySave.Desktop\\Views\\AddJobPage.xaml",
+              "RelativeDocumentMoniker": "EasySave.Desktop\\Views\\AddJobPage.xaml",
+              "ToolTip": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\EasySave.Desktop\\Views\\AddJobPage.xaml",
+              "RelativeToolTip": "EasySave.Desktop\\Views\\AddJobPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-27T16:19:24.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ModifyPage.xaml",
+              "DocumentMoniker": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\EasySave.Desktop\\Views\\ModifyPage.xaml",
+              "RelativeDocumentMoniker": "EasySave.Desktop\\Views\\ModifyPage.xaml",
+              "ToolTip": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\EasySave.Desktop\\Views\\ModifyPage.xaml",
+              "RelativeToolTip": "EasySave.Desktop\\Views\\ModifyPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-27T16:21:44.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\EasySave.Desktop\\Views\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "EasySave.Desktop\\Views\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\EasySave.Desktop\\Views\\HomePage.xaml.cs",
+              "RelativeToolTip": "EasySave.Desktop\\Views\\HomePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:44:22.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "JobViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\EasySave.Command\\ViewModels\\JobViewModel.cs",
+              "RelativeDocumentMoniker": "EasySave.Command\\ViewModels\\JobViewModel.cs",
+              "ToolTip": "C:\\Users\\pauli\\source\\repos\\Projet_Genie_Logiciel\\Projet_Genie_Logiciel\\Version 3.0\\EasySave\\EasySave.Command\\ViewModels\\JobViewModel.cs",
+              "RelativeToolTip": "EasySave.Command\\ViewModels\\JobViewModel.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAIBJwKcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:02:08.761Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

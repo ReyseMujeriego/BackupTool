@@ -1,0 +1,230 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Command\\EasySave.Command.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\CryptoSoft\\CryptoSoft.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\CryptoSoft\\CryptoSoft.csproj",
+        "projectName": "CryptoSoft",
+        "projectPath": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\CryptoSoft\\CryptoSoft.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Command\\EasySave.Command.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Command\\EasySave.Command.csproj",
+        "projectName": "EasySave.Command",
+        "projectPath": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Command\\EasySave.Command.csproj",
+        "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Command\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Core\\EasySave.Core.csproj": {
+                "projectPath": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Core\\EasySave.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Core\\EasySave.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Core\\EasySave.Core.csproj",
+        "projectName": "EasySave.Core",
+        "projectPath": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Core\\EasySave.Core.csproj",
+        "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\EasySave.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\CryptoSoft\\CryptoSoft.csproj": {
+                "projectPath": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\CryptoSoft\\CryptoSoft.csproj"
+              },
+              "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\Logger\\Logger.csproj": {
+                "projectPath": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\Logger\\Logger.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\Logger\\Logger.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\Logger\\Logger.csproj",
+        "projectName": "Logger",
+        "projectPath": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\Logger\\Logger.csproj",
+        "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alexa\\Desktop\\Cours 24-25\\Projet_Genie_Logiciel\\EasySave\\Logger\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

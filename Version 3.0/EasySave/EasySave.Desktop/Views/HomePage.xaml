@@ -1,0 +1,238 @@
+﻿<Window
+    x:Class="EasySave.Desktop.Views.HomePage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:EasySave.Desktop.Utils"
+    xmlns:resx="clr-namespace:EasySave.Desktop.Properties"
+    Title="Home"
+    Width="1000"
+    Height="800"
+    MinWidth="1300"
+    MinHeight="800"
+    WindowStartupLocation="CenterScreen"
+    xmlns:i="http://schemas.microsoft.com/xaml/behaviors">
+
+    <Window.Resources>
+        <local:UILanguageManager x:Key="LangManager" />
+
+        <!--  Style des boutons  -->
+        <Style TargetType="Button">
+            <Setter Property="FontFamily" Value="{StaticResource OutfitThin}" />
+            <Setter Property="Background" Value="#7FB1AF" />
+            <Setter Property="Foreground" Value="White" />
+            <Setter Property="FontSize" Value="15" />
+            <Setter Property="Padding" Value="10,5" />
+            <Setter Property="Margin" Value="5" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border
+                            Padding="{TemplateBinding Padding}"
+                            Background="{TemplateBinding Background}"
+                            CornerRadius="10">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+
+    <!--  Grid principale avec deux colonnes  -->
+    <Grid Margin="20">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <!--  Zone principale  -->
+            <ColumnDefinition Width="80" />
+            <!--  Colonne à droite pour les boutons Pause/Resume/Stop  -->
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="5" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <!--  Barre de titre  -->
+        <Grid
+            Grid.Row="0"
+            Grid.ColumnSpan="2"
+            Margin="5"
+            HorizontalAlignment="Stretch">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="Auto" />
+            </Grid.ColumnDefinitions>
+
+            <StackPanel
+                Grid.Column="0"
+                HorizontalAlignment="Left"
+                Orientation="Horizontal">
+                <Button
+                    Width="60"
+                    Height="30"
+                    Background="Gray"
+                    Command="{Binding SetLogFormatCommand}"
+                    CommandParameter="JSON"
+                    Content="JSON" />
+                <Button
+                    Width="60"
+                    Height="30"
+                    Background="Gray"
+                    Command="{Binding SetLogFormatCommand}"
+                    CommandParameter="XML"
+                    Content="XML" />
+            </StackPanel>
+
+            <TextBlock
+                Grid.Column="1"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                FontFamily="{StaticResource OutfitThin}"
+                FontSize="40"
+                FontWeight="Bold"
+                Text="EasySave" />
+
+            <StackPanel
+                Grid.Column="2"
+                HorizontalAlignment="Right"
+                Orientation="Horizontal">
+                <Button
+                    Width="50"
+                    Height="30"
+                    Background="Gray"
+                    Click="ChangeLanguageFR"
+                    Content="FR" />
+                <Button
+                    Width="50"
+                    Height="30"
+                    Background="Gray"
+                    Click="ChangeLanguageEN"
+                    Content="EN" />
+            </StackPanel>
+        </Grid>
+
+        <!--  Boutons de gestion des Jobs (Colonne de gauche)  -->
+        <StackPanel
+            Grid.Row="1"
+            Grid.Column="0"
+            HorizontalAlignment="Center"
+            Orientation="Horizontal">
+            <Button Command="{Binding AddJobCommand}" Content="{Binding Source={StaticResource LangManager}, Path=AddJobLabel}" />
+            <Button Command="{Binding EditJobCommand}" Content="{Binding Source={StaticResource LangManager}, Path=EditJobLabel}" />
+            <Button Command="{Binding DeleteJobCommand}" Content="{Binding Source={StaticResource LangManager}, Path=DeleteJobLabel}" />
+            <Button Command="{Binding ExecuteMultipleJobsCommand}" Content="{Binding Source={StaticResource LangManager}, Path=ExecuteSelectedJobLabel}" />
+            <Button Command="{Binding ConfigureEncryptionCommand}" Content="{Binding Source={StaticResource LangManager}, Path=EncryptionConfigurationLabel}" />
+            <Button Command="{Binding DecryptFilesCommand}" Content="{Binding Source={StaticResource LangManager}, Path=DecryptLabel}" />
+            <Button Content="{Binding Source={StaticResource LangManager}, Path=OpenSaveConfig}" Command="{Binding OpenBackupConfigCommand}"/>
+        </StackPanel>
+
+        <!--  Bouton "Démarrer le serveur" sous les boutons de gestion des Jobs  -->
+        <StackPanel
+            Grid.Row="2"
+            Grid.Column="0"
+            Margin="10"
+            HorizontalAlignment="Center"
+            Orientation="Horizontal">
+            <Button
+                Width="250"
+                Height="40"
+                Command="{Binding ToggleServerCommand}"
+                Content="{Binding ServerButtonText}" />
+        </StackPanel>
+
+        <!--  Liste des Jobs  -->
+        <GroupBox
+            Grid.Row="3"
+            Grid.Column="0"
+            Margin="5"
+            Header="{Binding Source={StaticResource LangManager}, Path=JobsListTitle}">
+            <Grid>
+                <ListView
+                    x:Name="JobListView"
+                    Margin="10"
+                    Padding="10"
+                    HorizontalAlignment="Stretch"
+                    VerticalAlignment="Stretch"
+                    BorderBrush="#F2F7F7"
+                    ItemsSource="{Binding Jobs}"
+                    SelectedItem="{Binding SelectedJob, Mode=TwoWay}"
+                    SelectionMode="Extended">
+                    <i:Interaction.Triggers>
+                        <i:EventTrigger EventName="SelectionChanged">
+                            <i:InvokeCommandAction Command="{Binding SelectionChangedCommand}" CommandParameter="{Binding Path=SelectedItems, RelativeSource={RelativeSource AncestorType=ListView}, IsAsync=True}" />
+                        </i:EventTrigger>
+                    </i:Interaction.Triggers>
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Width="200" DisplayMemberBinding="{Binding Name}" Header="{Binding Source={StaticResource LangManager}, Path=JobName}" />
+                            <GridViewColumn Width="250" DisplayMemberBinding="{Binding SourcePath}" Header="{Binding Source={StaticResource LangManager}, Path=JobSource}" />
+                            <GridViewColumn Width="250" DisplayMemberBinding="{Binding DestinationPath}" Header="{Binding Source={StaticResource LangManager}, Path=JobDestination}" />
+                            <GridViewColumn Width="220" DisplayMemberBinding="{Binding SaveType}" Header="{Binding Source={StaticResource LangManager}, Path=JobType}" />
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+            </Grid>
+        </GroupBox>
+
+        <!--  GridSplitter  -->
+        <GridSplitter
+            Grid.Row="4"
+            Grid.Column="0"
+            Height="5"
+            HorizontalAlignment="Stretch"
+            VerticalAlignment="Center"
+            Background="Gray" />
+
+        <!--  Zone ConsoleLog  -->
+        <GroupBox
+            Grid.Row="5"
+            Grid.Column="0"
+            Margin="5"
+            Header="{Binding Source={StaticResource LangManager}, Path=ConsoleLogTitle}">
+            <Grid>
+                <TextBox
+                    x:Name="ConsoleLogBox"
+                    HorizontalAlignment="Stretch"
+                    VerticalAlignment="Stretch"
+                    Background="DarkGray"
+                    FontStyle="Italic"
+                    Foreground="White"
+                    IsReadOnly="True"
+                    Text="{Binding ConsoleLog, Mode=OneWay}"
+                    TextWrapping="Wrap"
+                    VerticalScrollBarVisibility="Auto" />
+            </Grid>
+        </GroupBox>
+
+        <!--  Colonne droite avec les boutons Pause/Resume/Stop  -->
+        <Grid
+            Grid.Row="3"
+            Grid.RowSpan="3"
+            Grid.Column="1"
+            HorizontalAlignment="Stretch"
+            VerticalAlignment="Center">
+            <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                <Button
+                    Width="50"
+                    Height="50"
+                    Command="{Binding PauseJobCommand}"
+                    Content="⏸" />
+                <Button
+                    Width="50"
+                    Height="50"
+                    Command="{Binding ResumeJobCommand}"
+                    Content="▶" />
+                <Button
+                    Width="50"
+                    Height="50"
+                    Command="{Binding StopJobCommand}"
+                    Content="⏹" />
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

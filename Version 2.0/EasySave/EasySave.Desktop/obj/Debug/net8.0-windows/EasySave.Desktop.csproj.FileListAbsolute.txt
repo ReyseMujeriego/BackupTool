@@ -1,0 +1,207 @@
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.csproj.AssemblyReference.cache
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\Views\AddJobPage.g.cs
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\Views\HomePage.g.cs
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop_MarkupCompile.cache
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\EasySave.Desktop.exe
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\EasySave.Desktop.deps.json
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\EasySave.Desktop.runtimeconfig.json
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\EasySave.Desktop.dll
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\EasySave.Desktop.pdb
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\CryptoSoft.dll
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\EasySave.Core.dll
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\Logger.dll
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\EasySave.Core.pdb
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\CryptoSoft.pdb
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\Logger.pdb
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\en\EasySave.Core.resources.dll
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\fr\EasySave.Core.resources.dll
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\Views\AddJobPage.baml
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\Views\HomePage.baml
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.g.resources
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.AssemblyInfoInputs.cache
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.AssemblyInfo.cs
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.6F15DFB3.Up2Date
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.dll
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\refint\EasySave.Desktop.dll
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.pdb
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.genruntimeconfig.cache
+C:\Users\BlobJR\OneDrive - Association Cesi Viacesi mail\CESI\FISA-A3\Cour\Bloc2 - Génie Logiciel\ES1.0\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\ref\EasySave.Desktop.dll
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.csproj.AssemblyReference.cache
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\Views\AddJobPage.baml
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\Views\AddJobPage.g.cs
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\App.g.cs
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop_MarkupCompile.cache
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\EasySave.Desktop.exe
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\EasySave.Desktop.deps.json
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\EasySave.Desktop.runtimeconfig.json
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\EasySave.Desktop.dll
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\EasySave.Desktop.pdb
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\en\EasySave.Desktop.resources.dll
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\fr\EasySave.Desktop.resources.dll
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\CryptoSoft.dll
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\EasySave.Core.dll
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\Logger.dll
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\EasySave.Core.pdb
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\CryptoSoft.pdb
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\Logger.pdb
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\en\EasySave.Core.resources.dll
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\fr\EasySave.Core.resources.dll
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\Views\HomePage.g.cs
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop_MarkupCompile.lref
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\Views\HomePage.baml
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.g.resources
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.Properties.Resource.resources
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.Properties.Resource.en.resources
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.Properties.Resource.fr.resources
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.csproj.GenerateResource.cache
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.GeneratedMSBuildEditorConfig.editorconfig
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.AssemblyInfoInputs.cache
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.AssemblyInfo.cs
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.csproj.CoreCompileInputs.cache
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.sourcelink.json
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\en\EasySave.Desktop.resources.dll
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\fr\EasySave.Desktop.resources.dll
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.6F15DFB3.Up2Date
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.dll
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\refint\EasySave.Desktop.dll
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.pdb
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.genruntimeconfig.cache
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\ref\EasySave.Desktop.dll
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\Views\ModifyPage.g.cs
+D:\dl\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\Views\ModifyPage.baml
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\EasySave.Desktop.exe
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\EasySave.Desktop.deps.json
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\EasySave.Desktop.runtimeconfig.json
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\EasySave.Desktop.dll
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\EasySave.Desktop.pdb
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\en\EasySave.Desktop.resources.dll
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\fr\EasySave.Desktop.resources.dll
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\CryptoSoft.dll
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\EasySave.Core.dll
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\Logger.dll
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\EasySave.Core.pdb
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\CryptoSoft.pdb
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\Logger.pdb
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\en\EasySave.Core.resources.dll
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\fr\EasySave.Core.resources.dll
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.csproj.AssemblyReference.cache
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\Views\AddJobPage.g.cs
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\Views\HomePage.g.cs
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\Views\ModifyPage.g.cs
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop_MarkupCompile.cache
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop_MarkupCompile.lref
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\Views\AddJobPage.baml
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\Views\HomePage.baml
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\Views\ModifyPage.baml
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.g.resources
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.Properties.Resource.resources
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.Properties.Resource.en.resources
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.Properties.Resource.fr.resources
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.csproj.GenerateResource.cache
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.AssemblyInfoInputs.cache
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.AssemblyInfo.cs
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.sourcelink.json
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\en\EasySave.Desktop.resources.dll
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\fr\EasySave.Desktop.resources.dll
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.6F15DFB3.Up2Date
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.dll
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\refint\EasySave.Desktop.dll
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.pdb
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.genruntimeconfig.cache
+C:\Users\alex-\Downloads\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\ref\EasySave.Desktop.dll
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\EasySave.Desktop.exe
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\EasySave.Desktop.deps.json
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\EasySave.Desktop.runtimeconfig.json
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\EasySave.Desktop.dll
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\EasySave.Desktop.pdb
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\en\EasySave.Desktop.resources.dll
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\fr\EasySave.Desktop.resources.dll
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\CryptoSoft.dll
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\EasySave.Core.dll
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\Logger.dll
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\EasySave.Core.pdb
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\CryptoSoft.pdb
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\Logger.pdb
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\en\EasySave.Core.resources.dll
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\fr\EasySave.Core.resources.dll
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.csproj.AssemblyReference.cache
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\Views\AddJobPage.g.cs
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\Views\HomePage.g.cs
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\Views\ModifyPage.g.cs
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop_MarkupCompile.cache
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop_MarkupCompile.lref
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\Views\AddJobPage.baml
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\Views\HomePage.baml
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\Views\ModifyPage.baml
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.g.resources
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.Properties.Resource.resources
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.Properties.Resource.en.resources
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.Properties.Resource.fr.resources
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.csproj.GenerateResource.cache
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.AssemblyInfo.cs
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.sourcelink.json
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\en\EasySave.Desktop.resources.dll
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\fr\EasySave.Desktop.resources.dll
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.6F15DFB3.Up2Date
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.dll
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\refint\EasySave.Desktop.dll
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.pdb
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.genruntimeconfig.cache
+C:\Users\alexa\Desktop\Cours 24-25\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\ref\EasySave.Desktop.dll
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\EasySave.Desktop.exe
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\EasySave.Desktop.deps.json
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\EasySave.Desktop.runtimeconfig.json
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\EasySave.Desktop.dll
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\EasySave.Desktop.pdb
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\en\EasySave.Desktop.resources.dll
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\fr\EasySave.Desktop.resources.dll
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\CryptoSoft.dll
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\EasySave.Core.dll
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\Logger.dll
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\EasySave.Core.pdb
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\CryptoSoft.pdb
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\Logger.pdb
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\en\EasySave.Core.resources.dll
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\bin\Debug\net8.0-windows\fr\EasySave.Core.resources.dll
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.csproj.AssemblyReference.cache
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\Views\AddJobPage.g.cs
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\Views\HomePage.g.cs
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\Views\ModifyPage.g.cs
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop_MarkupCompile.cache
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop_MarkupCompile.lref
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\Views\AddJobPage.baml
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\Views\HomePage.baml
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\Views\ModifyPage.baml
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.g.resources
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.Properties.Resource.resources
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.Properties.Resource.en.resources
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.Properties.Resource.fr.resources
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.csproj.GenerateResource.cache
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.AssemblyInfoInputs.cache
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.AssemblyInfo.cs
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.sourcelink.json
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\en\EasySave.Desktop.resources.dll
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\fr\EasySave.Desktop.resources.dll
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.6F15DFB3.Up2Date
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.dll
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\refint\EasySave.Desktop.dll
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.pdb
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\EasySave.Desktop.genruntimeconfig.cache
+C:\Users\octob\Documents\GitHub\repos\Projet_Genie_Logiciel\EasySave\EasySave.Desktop\obj\Debug\net8.0-windows\ref\EasySave.Desktop.dll
